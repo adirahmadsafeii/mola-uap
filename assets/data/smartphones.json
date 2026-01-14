@@ -1,0 +1,3709 @@
+{
+  "smartphones": [
+    {
+      "id": "iphone-15-pro-max",
+      "name": "iPhone 15 Pro Max",
+      "brand": "Apple",
+      "rating": 4.9,
+      "price": 21999000,
+      "originalPrice": "22000000",
+      "imageUrl": "",
+      "features": [
+        "A17 Pro",
+        "256GB",
+        "48MP Pro"
+      ],
+      "specifications": {
+        "NETWORK": {
+          "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+          "2G bands": "GSM 850 / 900 / 1800 / 1900",
+          "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+          "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 53, 66",
+          "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 30, 38, 40, 41, 48, 53, 66, 70, 77, 78, 79 SA/NSA/Sub6",
+          "Speed": "HSPA, LTE-A, 5G, EV-DO Rev.A 3.1 Mbps"
+        },
+        "LAUNCH": {
+          "Announced": "2023, September 12",
+          "Status": "Available. Released 2023, September 22"
+        },
+        "BODY": {
+          "Dimensions": "159.9 x 76.7 x 8.3 mm (6.29 x 3.02 x 0.33 in)",
+          "Weight": "221 g (7.80 oz)",
+          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), titanium frame",
+          "SIM": "Nano-SIM and eSIM - International",
+          "Protection": "IP68 dust/water resistant (up to 6m for 30 min)"
+        },
+        "DISPLAY": {
+          "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)",
+          "Size": "6.7 inches, 110.2 cm2 (~89.8% screen-to-body ratio)",
+          "Resolution": "1290 x 2796 pixels, 19.5:9 ratio (~460 ppi density)",
+          "Protection": "Ceramic Shield glass"
+        },
+        "PLATFORM": {
+          "OS": "iOS 17, upgradable to iOS 17.5",
+          "Chipset": "Apple A17 Pro (3 nm)",
+          "CPU": "Hexa-core (2x3.78 GHz Everest + 4x2.11 GHz Sawtooth)",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "MEMORY": {
+          "Card slot": "No",
+          "Internal": "256GB 8GB RAM, 512GB 8GB RAM, 1TB 8GB RAM",
+          "Note": "NVMe"
+        },
+        "MAIN CAMERA": {
+          "Triple": "48 MP, f/1.8, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS",
+          "Ultra Wide": "12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 1.4µm, dual pixel PDAF",
+          "Telephoto": "12 MP, f/2.8, 77mm (telephoto), 1/3.5\", 1.0µm, PDAF, OIS, 3x optical zoom",
+          "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10‑bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30fps), Action mode (2.8K@60fps), stereo sound rec."
+        },
+        "SELFIE CAMERA": {
+          "Single": "12 MP, f/1.9, 23mm (wide), 1/3.6\", PDAF, OIS",
+          "Features": "HDR, Cinematic mode (4K@24/30fps)",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+        },
+        "SOUND": {
+          "Loudspeaker": "Yes, with stereo speakers",
+          "3.5mm jack": "No"
+        },
+        "COMMS": {
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual band, hotspot",
+          "Bluetooth": "5.3, A2DP, LE",
+          "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+          "NFC": "Yes",
+          "Radio": "No",
+          "USB": "USB Type-C 3.0, DisplayPort"
+        },
+        "FEATURES": {
+          "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+          "Other": "Ultra Wideband 2 (UWB) support, Emergency SOS via satellite (SMS sending/receiving)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 4441 mAh, non-removable",
+          "Charging": "Wired, PD2.0, 50% in 30 min (advertised)",
+          "Wireless": "15W wireless (MagSafe), 7.5W wireless (Qi)"
+        },
+        "antutu": 2100000,
+        "mainCameraMP": 48,
+        "battery": 4441,
+        "displayScore": 0.95,
+        "buildQuality": 0.98,
+        "ram": 8,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.7
+      },
+      "categories": [
+        "Gaming",
+        "Kamera",
+        "4 Jutaan"
+      ],
+      "description": "Flagship terbaik dengan A17 Pro dan kamera 5x telephoto",
+      "colors": [
+        "Natural Titanium",
+        "Blue Titanium",
+        "White Titanium",
+        "Black Titanium"
+      ],
+      "advantages": [
+        "Excellent build quality with titanium frame",
+        "Outstanding camera system with 5x telephoto",
+        "Powerful A17 Pro processor",
+        "Great display with ProMotion",
+        "Long software support"
+      ],
+      "disadvantages": [
+        "Expensive price point",
+        "Limited storage options for base model",
+        "No fast charging adapter included",
+        "Battery life could be better"
+      ],
+      "overallScore": 9.8,
+      "trendingScore": 85.5,
+      "trendingPercentage": 25,
+      "rank": 1,
+      "categoryScores": {
+        "Gaming": 9.2,
+        "Kamera": 9.8
+      },
+      "viewCount": 15200,
+      "likeCount": 2100,
+      "detailViewCount": 850,
+      "releaseDate": "2023-09-22T00:00:00Z",
+      "antutuScore": 2100000,
+      "trendReason": "Peluncuran terbaru dengan fitur Action Button",
+      "reviews": 1120
+    },
+    {
+      "id": "iphone-15-pro",
+      "name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "rating": 4.8,
+      "price": 18999000,
+      "imageUrl": "",
+      "features": [
+        "A17 Pro",
+        "128GB",
+        "48MP Pro"
+      ],
+      "specifications": {
+        "NETWORK": {
+          "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+          "2G bands": "GSM 850 / 900 / 1800 / 1900",
+          "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+          "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 53, 66",
+          "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 30, 38, 40, 41, 48, 53, 66, 70, 77, 78, 79 SA/NSA/Sub6",
+          "Speed": "HSPA, LTE-A, 5G, EV-DO Rev.A 3.1 Mbps"
+        },
+        "LAUNCH": {
+          "Announced": "2023, September 12",
+          "Status": "Available. Released 2023, September 22"
+        },
+        "BODY": {
+          "Dimensions": "146.6 x 70.6 x 8.3 mm (5.77 x 2.78 x 0.33 in)",
+          "Weight": "187 g (6.60 oz)",
+          "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), titanium frame",
+          "SIM": "Nano-SIM and eSIM - International",
+          "Protection": "IP68 dust/water resistant (up to 6m for 30 min)"
+        },
+        "DISPLAY": {
+          "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)",
+          "Size": "6.1 inches, 91.2 cm2 (~88.2% screen-to-body ratio)",
+          "Resolution": "1179 x 2556 pixels, 19.5:9 ratio (~460 ppi density)",
+          "Protection": "Ceramic Shield glass"
+        },
+        "PLATFORM": {
+          "OS": "iOS 17, upgradable to iOS 17.5",
+          "Chipset": "Apple A17 Pro (3 nm)",
+          "CPU": "Hexa-core (2x3.78 GHz Everest + 4x2.11 GHz Sawtooth)",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "MEMORY": {
+          "Card slot": "No",
+          "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM, 1TB 8GB RAM",
+          "Note": "NVMe"
+        },
+        "MAIN CAMERA": {
+          "Triple": "48 MP, f/1.8, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS",
+          "Ultra Wide": "12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 1.4µm, dual pixel PDAF",
+          "Telephoto": "12 MP, f/2.8, 77mm (telephoto), 1/3.5\", 1.0µm, PDAF, OIS, 3x optical zoom",
+          "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10‑bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30fps), Action mode (2.8K@60fps), stereo sound rec."
+        },
+        "SELFIE CAMERA": {
+          "Single": "12 MP, f/1.9, 23mm (wide), 1/3.6\", PDAF, OIS",
+          "Features": "HDR, Cinematic mode (4K@24/30fps)",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+        },
+        "SOUND": {
+          "Loudspeaker": "Yes, with stereo speakers",
+          "3.5mm jack": "No"
+        },
+        "COMMS": {
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual band, hotspot",
+          "Bluetooth": "5.3, A2DP, LE",
+          "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+          "NFC": "Yes",
+          "Radio": "No",
+          "USB": "USB Type-C 3.0, DisplayPort"
+        },
+        "FEATURES": {
+          "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+          "Other": "Ultra Wideband 2 (UWB) support, Emergency SOS via satellite (SMS sending/receiving)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 3274 mAh, non-removable",
+          "Charging": "Wired, PD2.0, 50% in 30 min (advertised)",
+          "Wireless": "15W wireless (MagSafe), 7.5W wireless (Qi)"
+        },
+        "antutu": 2000000,
+        "mainCameraMP": 48,
+        "battery": 3274,
+        "displayScore": 0.95,
+        "buildQuality": 0.98,
+        "ram": 8,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.6
+      },
+      "categories": [
+        "Gaming",
+        "Kamera"
+      ],
+      "description": "Performa flagship dalam ukuran yang compact",
+      "colors": [
+        "Natural Titanium",
+        "Blue Titanium",
+        "White Titanium",
+        "Black Titanium"
+      ],
+      "advantages": [
+        "Excellent build quality with titanium frame",
+        "Outstanding camera system with 5x telephoto",
+        "Powerful A17 Pro processor",
+        "Great display with ProMotion",
+        "Long software support"
+      ],
+      "disadvantages": [
+        "Expensive price point",
+        "Limited storage options for base model",
+        "No fast charging adapter included",
+        "Battery life could be better"
+      ],
+      "overallScore": 9.3,
+      "trendingScore": 78.2,
+      "trendingPercentage": 18,
+      "rank": 2,
+      "categoryScores": {
+        "Gaming": 9.0,
+        "Kamera": 9.5
+      },
+      "viewCount": 12800,
+      "likeCount": 1800,
+      "detailViewCount": 720,
+      "releaseDate": "2023-09-22T00:00:00Z",
+      "antutuScore": 2000000,
+      "trendReason": "A17 Pro dengan hardware ray tracing",
+      "reviews": 980
+    },
+    {
+      "id": "samsung-galaxy-s24-ultra",
+      "name": "Samsung Galaxy S24 Ultra",
+      "brand": "Samsung",
+      "rating": 4.7,
+      "price": 19999000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 8 Gen 3",
+        "200MP Camera",
+        "S Pen"
+      ],
+      "specifications": {
+        "NETWORK": {
+          "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+          "2G bands": "GSM 850 / 900 / 1800 / 1900",
+          "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+          "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 53, 66",
+          "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 30, 38, 40, 41, 48, 53, 66, 70, 77, 78, 79 SA/NSA/Sub6",
+          "Speed": "HSPA, LTE-A, 5G"
+        },
+        "LAUNCH": {
+          "Announced": "2024, January 17",
+          "Status": "Available. Released 2024, January 31"
+        },
+        "BODY": {
+          "Dimensions": "162.3 x 79.0 x 8.6 mm (6.39 x 3.11 x 0.34 in)",
+          "Weight": "233 g (8.22 oz)",
+          "Build": "Glass front (Gorilla Glass Armor), glass back (Gorilla Glass), titanium frame",
+          "SIM": "Nano-SIM and eSIM",
+          "Protection": "IP68 dust/water resistant (up to 1.5m for 30 min)"
+        },
+        "DISPLAY": {
+          "Type": "Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak)",
+          "Size": "6.8 inches, 114.7 cm2 (~90.2% screen-to-body ratio)",
+          "Resolution": "1440 x 3120 pixels, 19.5:9 ratio (~501 ppi density)",
+          "Protection": "Corning Gorilla Glass Armor"
+        },
+        "PLATFORM": {
+          "OS": "Android 14, One UI 6.1",
+          "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+          "CPU": "Octa-core (1x3.39 GHz Cortex-X4 & 3x3.1 GHz Cortex-A720 & 2x2.9 GHz Cortex-A720 & 2x2.2 GHz Cortex-A520)",
+          "GPU": "Adreno 750"
+        },
+        "MEMORY": {
+          "Card slot": "No",
+          "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM",
+          "Note": "UFS 4.0"
+        },
+        "MAIN CAMERA": {
+          "Quad": "200 MP, f/1.7, 24mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, Laser AF, OIS",
+          "Ultra Wide": "12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 1.4µm, dual pixel PDAF, Super Steady video",
+          "Telephoto 1": "50 MP, f/3.4, 111mm (periscope telephoto), 1/2.52\", 0.7µm, PDAF, OIS, 5x optical zoom",
+          "Telephoto 2": "10 MP, f/2.4, 67mm (telephoto), 1/3.52\", 1.12µm, dual pixel PDAF, OIS, 3x optical zoom",
+          "Features": "LED flash, auto-HDR, panorama",
+          "Video": "8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/240fps, 720p@960fps, HDR10+, stereo sound rec., gyro-EIS"
+        },
+        "SELFIE CAMERA": {
+          "Single": "12 MP, f/2.2, 26mm (wide), dual pixel PDAF",
+          "Features": "Dual video call, Auto-HDR",
+          "Video": "4K@30/60fps, 1080p@30fps"
+        },
+        "SOUND": {
+          "Loudspeaker": "Yes, with stereo speakers",
+          "3.5mm jack": "No"
+        },
+        "COMMS": {
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+          "Bluetooth": "5.3, A2DP, LE",
+          "Positioning": "GPS, GLONASS, BDS, GALILEO, QZSS",
+          "NFC": "Yes",
+          "Radio": "No",
+          "USB": "USB Type-C 3.2, OTG"
+        },
+        "FEATURES": {
+          "Sensors": "Ultrasonic fingerprint (under display), accelerometer, gyro, proximity, compass, barometer",
+          "Other": "Samsung DeX, Samsung Wireless DeX, Bixby natural language commands and dictation, Samsung Pay (Visa, MasterCard certified), Ultra Wideband (UWB) support"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh, non-removable",
+          "Charging": "45W wired, PD3.0, 65% in 30 min (advertised), 15W wireless (Qi/PMA), 4.5W reverse wireless"
+        },
+        "antutu": 2050000,
+        "mainCameraMP": 200,
+        "battery": 5000,
+        "displayScore": 0.98,
+        "buildQuality": 0.95,
+        "ram": 12,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.8
+      },
+      "categories": [
+        "Gaming",
+        "Kamera"
+      ],
+      "description": "AI features dan S Pen yang disempurnakan",
+      "colors": [
+        "Titanium Black",
+        "Titanium Gray",
+        "Titanium Violet",
+        "Titanium Yellow"
+      ],
+      "advantages": [
+        "Excellent 200MP camera system",
+        "S Pen for productivity",
+        "Powerful Snapdragon 8 Gen 3",
+        "Great display quality",
+        "Long battery life"
+      ],
+      "disadvantages": [
+        "Expensive",
+        "Large and heavy",
+        "No expandable storage"
+      ],
+      "overallScore": 9.6,
+      "trendingScore": 82.3,
+      "trendingPercentage": 18,
+      "rank": 1,
+      "categoryScores": {
+        "Gaming": 9.4,
+        "Kamera": 9.7
+      },
+      "viewCount": 12800,
+      "likeCount": 1800,
+      "detailViewCount": 650,
+      "releaseDate": "2024-01-31T00:00:00Z",
+      "antutuScore": 2050000,
+      "trendReason": "AI features dan S Pen yang disempurnakan",
+      "reviews": 890
+    },
+    {
+      "id": "red-magic-11-pro",
+      "name": "Red Magic 11 Pro",
+      "brand": "Nubia",
+      "rating": 4.9,
+      "price": 15999000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 8 Elite Gen 5",
+        "16GB RAM",
+        "512GB",
+        "165Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, RedMagic OS 5.0",
+          "Chipset": "Qualcomm SM8650 Snapdragon 8 Elite Gen 5",
+          "CPU": "Octa-core",
+          "GPU": "Adreno 750"
+        },
+        "MEMORY": {
+          "Internal": "512GB 16GB RAM, 1TB 16GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 165Hz",
+          "Size": "6.8 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "64 MP (wide), 8 MP (ultrawide), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 6000 mAh",
+          "Charging": "80W wired"
+        },
+        "antutu": 3933699,
+        "mainCameraMP": 64,
+        "battery": 6000,
+        "displayScore": 0.98,
+        "buildQuality": 0.92,
+        "ram": 16,
+        "refreshRate": 165,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.95
+      },
+      "categories": [
+        "Gaming"
+      ],
+      "description": "Smartphone gaming terbaik dengan performa AnTuTu tertinggi 3.9 juta",
+      "colors": [
+        "Black",
+        "Silver",
+        "Red"
+      ],
+      "advantages": [
+        "AnTuTu score tertinggi: 3.9 juta",
+        "Refresh rate 165Hz untuk gaming",
+        "Sistem pendingin aktif",
+        "RAM 16GB untuk performa maksimal",
+        "Baterai 6000mAh"
+      ],
+      "disadvantages": [
+        "Desain tebal karena cooling system",
+        "Kamera tidak sebaik flagship lain",
+        "Harga cukup mahal"
+      ],
+      "overallScore": 9.5,
+      "trendingScore": 95.0,
+      "trendingPercentage": 100,
+      "rank": 1,
+      "categoryScores": {
+        "Gaming": 9.8
+      },
+      "viewCount": 25000,
+      "likeCount": 3500,
+      "detailViewCount": 1200,
+      "releaseDate": "2025-10-15T00:00:00Z",
+      "antutuScore": 3933699,
+      "trendReason": "AnTuTu score tertinggi November 2025: 3.9 juta",
+      "reviews": 1500
+    },
+    {
+      "id": "iqoo-15",
+      "name": "iQOO 15",
+      "brand": "iQOO",
+      "rating": 4.8,
+      "price": 14999000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 8 Elite Gen 5",
+        "16GB RAM",
+        "512GB",
+        "144Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, Funtouch OS 15",
+          "Chipset": "Qualcomm SM8650 Snapdragon 8 Elite Gen 5",
+          "CPU": "Octa-core",
+          "GPU": "Adreno 750"
+        },
+        "MEMORY": {
+          "Internal": "512GB 16GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 144Hz",
+          "Size": "6.78 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 13 MP (ultrawide), 8 MP (telephoto)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 4700 mAh",
+          "Charging": "120W wired"
+        },
+        "antutu": 3778286,
+        "mainCameraMP": 50,
+        "battery": 4700,
+        "displayScore": 0.97,
+        "buildQuality": 0.9,
+        "ram": 16,
+        "refreshRate": 144,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.85
+      },
+      "categories": [
+        "Gaming"
+      ],
+      "description": "Flagship gaming dengan AnTuTu score 3.7 juta dan charging 120W",
+      "colors": [
+        "Black",
+        "Blue",
+        "Orange"
+      ],
+      "advantages": [
+        "AnTuTu score tinggi: 3.7 juta",
+        "Charging super cepat 120W",
+        "Refresh rate 144Hz",
+        "RAM 16GB"
+      ],
+      "disadvantages": [
+        "Baterai relatif kecil 4700mAh",
+        "Brand kurang dikenal di Indonesia"
+      ],
+      "overallScore": 9.3,
+      "trendingScore": 92.5,
+      "trendingPercentage": 96,
+      "rank": 2,
+      "categoryScores": {
+        "Gaming": 9.6
+      },
+      "viewCount": 22000,
+      "likeCount": 3200,
+      "detailViewCount": 1100,
+      "releaseDate": "2025-09-20T00:00:00Z",
+      "antutuScore": 3778286,
+      "trendReason": "AnTuTu score tertinggi #2: 3.7 juta",
+      "reviews": 1300
+    },
+    {
+      "id": "oneplus-15",
+      "name": "OnePlus 15",
+      "brand": "OnePlus",
+      "rating": 4.7,
+      "price": 13999000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 8 Elite Gen 5",
+        "16GB RAM",
+        "512GB",
+        "165Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, OxygenOS 15",
+          "Chipset": "Qualcomm SM8650 Snapdragon 8 Elite Gen 5",
+          "CPU": "Octa-core",
+          "GPU": "Adreno 750"
+        },
+        "MEMORY": {
+          "Internal": "512GB 16GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 165Hz",
+          "Size": "6.78 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 48 MP (ultrawide), 8 MP (telephoto)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 7300 mAh",
+          "Charging": "100W wired"
+        },
+        "antutu": 3589169,
+        "mainCameraMP": 50,
+        "battery": 7300,
+        "displayScore": 0.96,
+        "buildQuality": 0.93,
+        "ram": 16,
+        "refreshRate": 165,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.8
+      },
+      "categories": [
+        "Gaming"
+      ],
+      "description": "Flagship dengan AnTuTu 3.5 juta dan baterai besar 7300mAh",
+      "colors": [
+        "Black",
+        "Green",
+        "White"
+      ],
+      "advantages": [
+        "AnTuTu score tinggi: 3.5 juta",
+        "Baterai sangat besar 7300mAh",
+        "Refresh rate 165Hz",
+        "Charging cepat 100W"
+      ],
+      "disadvantages": [
+        "Agak berat karena baterai besar",
+        "Harga cukup mahal"
+      ],
+      "overallScore": 9.2,
+      "trendingScore": 90.0,
+      "trendingPercentage": 91,
+      "rank": 3,
+      "categoryScores": {
+        "Gaming": 9.5
+      },
+      "viewCount": 20000,
+      "likeCount": 3000,
+      "detailViewCount": 1000,
+      "releaseDate": "2025-09-15T00:00:00Z",
+      "antutuScore": 3589169,
+      "trendReason": "AnTuTu score tertinggi #3: 3.5 juta dengan baterai 7300mAh",
+      "reviews": 1200
+    },
+    {
+      "id": "vivo-x300-pro",
+      "name": "vivo X300 Pro",
+      "brand": "vivo",
+      "rating": 4.6,
+      "price": 12999000,
+      "imageUrl": "",
+      "features": [
+        "MediaTek Dimensity 9500",
+        "16GB RAM",
+        "512GB",
+        "120Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, OriginOS 5",
+          "Chipset": "MediaTek Dimensity 9500",
+          "CPU": "Octa-core",
+          "GPU": "Mali-G720"
+        },
+        "MEMORY": {
+          "Internal": "512GB 16GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.78 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 48 MP (ultrawide), 12 MP (telephoto)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "120W wired"
+        },
+        "antutu": 3410926,
+        "mainCameraMP": 50,
+        "battery": 5000,
+        "displayScore": 0.95,
+        "buildQuality": 0.91,
+        "ram": 16,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.75
+      },
+      "categories": [
+        "Gaming",
+        "Kamera"
+      ],
+      "description": "Flagship dengan Dimensity 9500 dan AnTuTu 3.4 juta",
+      "colors": [
+        "Black",
+        "Blue",
+        "Purple"
+      ],
+      "advantages": [
+        "AnTuTu score tinggi: 3.4 juta",
+        "Kamera bagus dengan telephoto",
+        "Charging cepat 120W",
+        "MediaTek Dimensity 9500"
+      ],
+      "disadvantages": [
+        "MediaTek kurang populer untuk gaming",
+        "Brand vivo kurang dikenal untuk flagship"
+      ],
+      "overallScore": 9.0,
+      "trendingScore": 87.5,
+      "trendingPercentage": 87,
+      "rank": 4,
+      "categoryScores": {
+        "Gaming": 9.2,
+        "Kamera": 9.0
+      },
+      "viewCount": 18000,
+      "likeCount": 2800,
+      "detailViewCount": 950,
+      "releaseDate": "2025-08-20T00:00:00Z",
+      "antutuScore": 3410926,
+      "trendReason": "AnTuTu score tertinggi #4: 3.4 juta dengan MediaTek Dimensity 9500",
+      "reviews": 1100
+    },
+    {
+      "id": "oppo-find-x9-pro",
+      "name": "OPPO Find X9 Pro",
+      "brand": "OPPO",
+      "rating": 4.6,
+      "price": 12499000,
+      "imageUrl": "",
+      "features": [
+        "MediaTek Dimensity 9500",
+        "16GB RAM",
+        "512GB",
+        "120Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, ColorOS 15",
+          "Chipset": "MediaTek Dimensity 9500",
+          "CPU": "Octa-core",
+          "GPU": "Mali-G720"
+        },
+        "MEMORY": {
+          "Internal": "512GB 16GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.78 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 48 MP (ultrawide), 12 MP (telephoto)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "100W wired"
+        },
+        "antutu": 3370151,
+        "mainCameraMP": 50,
+        "battery": 5000,
+        "displayScore": 0.95,
+        "buildQuality": 0.92,
+        "ram": 16,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.75
+      },
+      "categories": [
+        "Gaming",
+        "Kamera"
+      ],
+      "description": "Flagship OPPO dengan Dimensity 9500 dan AnTuTu 3.3 juta",
+      "colors": [
+        "Black",
+        "Green",
+        "Orange"
+      ],
+      "advantages": [
+        "AnTuTu score tinggi: 3.3 juta",
+        "Kamera bagus dengan telephoto",
+        "Charging cepat 100W",
+        "Desain premium"
+      ],
+      "disadvantages": [
+        "MediaTek kurang populer untuk gaming",
+        "Harga cukup mahal"
+      ],
+      "overallScore": 8.9,
+      "trendingScore": 85.0,
+      "trendingPercentage": 86,
+      "rank": 5,
+      "categoryScores": {
+        "Gaming": 9.1,
+        "Kamera": 9.0
+      },
+      "viewCount": 17000,
+      "likeCount": 2700,
+      "detailViewCount": 900,
+      "releaseDate": "2025-08-15T00:00:00Z",
+      "antutuScore": 3370151,
+      "trendReason": "AnTuTu score tertinggi #5: 3.3 juta dengan MediaTek Dimensity 9500",
+      "reviews": 1050
+    },
+    {
+      "id": "samsung-galaxy-s25-ultra",
+      "name": "Samsung Galaxy S25 Ultra",
+      "brand": "Samsung",
+      "rating": 4.8,
+      "price": 20999000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 8 Elite OC",
+        "12GB RAM",
+        "256GB",
+        "120Hz",
+        "S Pen"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, One UI 7.0",
+          "Chipset": "Qualcomm SM8650 Snapdragon 8 Elite OC",
+          "CPU": "Octa-core",
+          "GPU": "Adreno 750"
+        },
+        "MEMORY": {
+          "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "Dynamic LTPO AMOLED 2X, 120Hz",
+          "Size": "6.8 inches"
+        },
+        "MAIN CAMERA": {
+          "Quad": "200 MP (wide), 12 MP (ultrawide), 50 MP (telephoto), 10 MP (telephoto)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "45W wired, 15W wireless"
+        },
+        "antutu": 2878650,
+        "mainCameraMP": 200,
+        "battery": 5000,
+        "displayScore": 0.98,
+        "buildQuality": 0.96,
+        "ram": 12,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.85
+      },
+      "categories": [
+        "Gaming",
+        "Kamera"
+      ],
+      "description": "Flagship Samsung 2025 dengan S Pen dan kamera 200MP",
+      "colors": [
+        "Titanium Black",
+        "Titanium Gray",
+        "Titanium Violet"
+      ],
+      "advantages": [
+        "Kamera 200MP dengan 4 lensa",
+        "S Pen untuk produktivitas",
+        "AnTuTu score: 2.8 juta",
+        "Display terbaik",
+        "Build quality premium"
+      ],
+      "disadvantages": [
+        "Harga sangat mahal",
+        "Agak besar dan berat",
+        "Charging tidak secepat kompetitor"
+      ],
+      "overallScore": 9.7,
+      "trendingScore": 88.0,
+      "trendingPercentage": 73,
+      "rank": 1,
+      "categoryScores": {
+        "Gaming": 9.3,
+        "Kamera": 9.8
+      },
+      "viewCount": 30000,
+      "likeCount": 4000,
+      "detailViewCount": 1500,
+      "releaseDate": "2025-01-20T00:00:00Z",
+      "antutuScore": 2878650,
+      "trendReason": "Flagship Samsung 2025 dengan S Pen dan kamera 200MP",
+      "reviews": 1800
+    },
+    {
+      "id": "xiaomi-mi-15",
+      "name": "Xiaomi Mi 15",
+      "brand": "Xiaomi",
+      "rating": 4.7,
+      "price": 11999000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 8 Elite",
+        "12GB RAM",
+        "512GB",
+        "120Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, MIUI 16",
+          "Chipset": "Qualcomm SM8650 Snapdragon 8 Elite",
+          "CPU": "Octa-core",
+          "GPU": "Adreno 750"
+        },
+        "MEMORY": {
+          "Internal": "512GB 12GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.7 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 48 MP (ultrawide), 12 MP (telephoto)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "90W wired"
+        },
+        "antutu": 2962431,
+        "mainCameraMP": 50,
+        "battery": 5000,
+        "displayScore": 0.96,
+        "buildQuality": 0.93,
+        "ram": 12,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.8
+      },
+      "categories": [
+        "Gaming",
+        "Kamera"
+      ],
+      "description": "Flagship Xiaomi dengan AnTuTu 2.9 juta dan harga kompetitif",
+      "colors": [
+        "Black",
+        "Blue",
+        "White"
+      ],
+      "advantages": [
+        "AnTuTu score tinggi: 2.9 juta",
+        "Harga lebih terjangkau",
+        "Kamera bagus",
+        "Charging cepat 90W"
+      ],
+      "disadvantages": [
+        "MIUI bisa terlalu banyak bloatware",
+        "Build quality tidak sebaik Samsung"
+      ],
+      "overallScore": 9.1,
+      "trendingScore": 82.5,
+      "trendingPercentage": 75,
+      "rank": 1,
+      "categoryScores": {
+        "Gaming": 9.4,
+        "Kamera": 9.2
+      },
+      "viewCount": 19000,
+      "likeCount": 2900,
+      "detailViewCount": 1000,
+      "releaseDate": "2025-07-15T00:00:00Z",
+      "antutuScore": 2962431,
+      "trendReason": "AnTuTu score tinggi 2.9 juta dengan harga lebih terjangkau",
+      "reviews": 1250
+    },
+    {
+      "id": "poco-f7-ultra",
+      "name": "Poco F7 Ultra",
+      "brand": "Poco",
+      "rating": 4.6,
+      "price": 9999000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 8 Elite",
+        "16GB RAM",
+        "512GB",
+        "120Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, MIUI 16",
+          "Chipset": "Qualcomm SM8650 Snapdragon 8 Elite",
+          "CPU": "Octa-core",
+          "GPU": "Adreno 750"
+        },
+        "MEMORY": {
+          "Internal": "512GB 16GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.7 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "64 MP (wide), 8 MP (ultrawide), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "120W wired"
+        },
+        "antutu": 2955217,
+        "mainCameraMP": 64,
+        "battery": 5000,
+        "displayScore": 0.94,
+        "buildQuality": 0.88,
+        "ram": 16,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.75
+      },
+      "categories": [
+        "Gaming",
+        "3 Jutaan"
+      ],
+      "description": "Value flagship dengan AnTuTu 2.9 juta dan harga terjangkau",
+      "colors": [
+        "Black",
+        "Yellow",
+        "Blue"
+      ],
+      "advantages": [
+        "AnTuTu score tinggi: 2.9 juta",
+        "Harga sangat terjangkau",
+        "RAM 16GB",
+        "Charging super cepat 120W"
+      ],
+      "disadvantages": [
+        "Kamera tidak sebaik flagship",
+        "Build quality lebih sederhana",
+        "Tidak ada telephoto"
+      ],
+      "overallScore": 8.8,
+      "trendingScore": 80.0,
+      "trendingPercentage": 75,
+      "rank": 1,
+      "categoryScores": {
+        "Gaming": 9.3,
+        "3 Jutaan": 9.0
+      },
+      "viewCount": 16000,
+      "likeCount": 2600,
+      "detailViewCount": 850,
+      "releaseDate": "2025-06-20T00:00:00Z",
+      "antutuScore": 2955217,
+      "trendReason": "Value flagship dengan AnTuTu 2.9 juta dan harga terjangkau",
+      "reviews": 1000
+    },
+    {
+      "id": "iphone-17-pro-max",
+      "name": "iPhone 17 Pro Max",
+      "brand": "Apple",
+      "rating": 4.9,
+      "price": 22999000,
+      "imageUrl": "",
+      "features": [
+        "A19 Pro",
+        "256GB",
+        "48MP Fusion"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "iOS 19",
+          "Chipset": "Apple A19 Pro (2 nm)",
+          "CPU": "Hexa-core",
+          "GPU": "Apple GPU (7-core graphics)"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM, 512GB 12GB RAM, 1TB 12GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "LTPO Super Retina XDR OLED, 120Hz",
+          "Size": "6.8 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "48 MP Fusion (wide), 12 MP (ultrawide), 12 MP (telephoto)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "Wired, MagSafe wireless"
+        },
+        "antutu": 2300000,
+        "mainCameraMP": 48,
+        "battery": 5000,
+        "displayScore": 0.98,
+        "buildQuality": 0.99,
+        "ram": 12,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.7
+      },
+      "categories": [
+        "Gaming",
+        "Kamera"
+      ],
+      "description": "iPhone terbaru 2025 dengan A19 Pro dan sistem kamera Fusion 48MP",
+      "colors": [
+        "Natural Titanium",
+        "Blue Titanium",
+        "White Titanium",
+        "Black Titanium"
+      ],
+      "advantages": [
+        "Chip A19 Pro terbaru",
+        "Sistem kamera Fusion 48MP",
+        "Layar ProMotion terbaik",
+        "Build quality premium titanium"
+      ],
+      "disadvantages": [
+        "Harga sangat mahal",
+        "Charging tidak secepat Android"
+      ],
+      "overallScore": 9.9,
+      "trendingScore": 96.0,
+      "trendingPercentage": 98,
+      "rank": 1,
+      "categoryScores": {
+        "Gaming": 9.5,
+        "Kamera": 9.9
+      },
+      "viewCount": 35000,
+      "likeCount": 5000,
+      "detailViewCount": 2000,
+      "releaseDate": "2025-09-15T00:00:00Z",
+      "antutuScore": 2300000,
+      "trendReason": "iPhone terbaru 2025 dengan A19 Pro dan kamera Fusion",
+      "reviews": 2000
+    },
+    {
+      "id": "iphone-17-pro",
+      "name": "iPhone 17 Pro",
+      "brand": "Apple",
+      "rating": 4.8,
+      "price": 19999000,
+      "imageUrl": "",
+      "features": [
+        "A19 Pro",
+        "256GB",
+        "48MP Fusion"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "iOS 19",
+          "Chipset": "Apple A19 Pro (2 nm)",
+          "CPU": "Hexa-core",
+          "GPU": "Apple GPU (7-core graphics)"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM, 512GB 12GB RAM, 1TB 12GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "LTPO Super Retina XDR OLED, 120Hz",
+          "Size": "6.1 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "48 MP Fusion (wide), 12 MP (ultrawide), 12 MP (telephoto)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 4500 mAh",
+          "Charging": "Wired, MagSafe wireless"
+        },
+        "antutu": 2250000,
+        "mainCameraMP": 48,
+        "battery": 4500,
+        "displayScore": 0.98,
+        "buildQuality": 0.99,
+        "ram": 12,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.7
+      },
+      "categories": [
+        "Gaming",
+        "Kamera"
+      ],
+      "description": "iPhone 17 Pro dengan A19 Pro dalam ukuran compact",
+      "colors": [
+        "Natural Titanium",
+        "Blue Titanium",
+        "White Titanium",
+        "Black Titanium"
+      ],
+      "advantages": [
+        "Chip A19 Pro terbaru",
+        "Ukuran lebih compact",
+        "Sistem kamera Fusion 48MP",
+        "Build quality premium"
+      ],
+      "disadvantages": [
+        "Harga mahal",
+        "Baterai lebih kecil dari Pro Max"
+      ],
+      "overallScore": 9.7,
+      "trendingScore": 94.0,
+      "trendingPercentage": 95,
+      "rank": 2,
+      "categoryScores": {
+        "Gaming": 9.4,
+        "Kamera": 9.8
+      },
+      "viewCount": 32000,
+      "likeCount": 4500,
+      "detailViewCount": 1800,
+      "releaseDate": "2025-09-15T00:00:00Z",
+      "antutuScore": 2250000,
+      "trendReason": "iPhone 17 Pro dengan A19 Pro terbaru",
+      "reviews": 1800
+    },
+    {
+      "id": "iphone-17",
+      "name": "iPhone 17",
+      "brand": "Apple",
+      "rating": 4.7,
+      "price": 16999000,
+      "imageUrl": "",
+      "features": [
+        "A19",
+        "256GB",
+        "48MP Dual"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "iOS 19",
+          "Chipset": "Apple A19 (2 nm)",
+          "CPU": "Hexa-core",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM, 512GB 8GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "Super Retina XDR OLED, 120Hz",
+          "Size": "6.1 inches"
+        },
+        "MAIN CAMERA": {
+          "Dual": "48 MP (wide), 12 MP (ultrawide)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 4000 mAh",
+          "Charging": "Wired, MagSafe wireless"
+        },
+        "antutu": 2100000,
+        "mainCameraMP": 48,
+        "battery": 4000,
+        "displayScore": 0.96,
+        "buildQuality": 0.97,
+        "ram": 8,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.6
+      },
+      "categories": [
+        "Kamera"
+      ],
+      "description": "iPhone 17 dengan A19 dan kamera Dual 48MP",
+      "colors": [
+        "Black",
+        "Blue",
+        "Pink",
+        "Yellow",
+        "Green"
+      ],
+      "advantages": [
+        "Chip A19 terbaru",
+        "Harga lebih terjangkau",
+        "Kamera 48MP",
+        "Layar 120Hz"
+      ],
+      "disadvantages": [
+        "Tidak ada telephoto",
+        "Baterai lebih kecil"
+      ],
+      "overallScore": 9.4,
+      "trendingScore": 90.0,
+      "trendingPercentage": 92,
+      "rank": 3,
+      "categoryScores": {
+        "Kamera": 9.5
+      },
+      "viewCount": 28000,
+      "likeCount": 4000,
+      "detailViewCount": 1500,
+      "releaseDate": "2025-09-15T00:00:00Z",
+      "antutuScore": 2100000,
+      "trendReason": "iPhone 17 dengan A19 dan harga lebih terjangkau",
+      "reviews": 1600
+    },
+    {
+      "id": "iphone-16-pro-max",
+      "name": "iPhone 16 Pro Max",
+      "brand": "Apple",
+      "rating": 4.8,
+      "price": 21999000,
+      "imageUrl": "",
+      "features": [
+        "A18 Pro",
+        "256GB",
+        "48MP"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "iOS 18",
+          "Chipset": "Apple A18 Pro (3 nm)",
+          "CPU": "Hexa-core",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM, 512GB 8GB RAM, 1TB 8GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "LTPO Super Retina XDR OLED, 120Hz",
+          "Size": "6.8 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "48 MP (wide), 12 MP (ultrawide), 12 MP (telephoto)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "Wired, MagSafe wireless"
+        },
+        "antutu": 2200000,
+        "mainCameraMP": 48,
+        "battery": 5000,
+        "displayScore": 0.97,
+        "buildQuality": 0.98,
+        "ram": 8,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.7
+      },
+      "categories": [
+        "Gaming",
+        "Kamera"
+      ],
+      "description": "iPhone 16 Pro Max dengan A18 Pro",
+      "colors": [
+        "Natural Titanium",
+        "Blue Titanium",
+        "White Titanium",
+        "Black Titanium"
+      ],
+      "advantages": [
+        "Chip A18 Pro powerful",
+        "Kamera 48MP",
+        "Layar ProMotion",
+        "Build quality premium"
+      ],
+      "disadvantages": [
+        "Harga mahal",
+        "Charging lambat"
+      ],
+      "overallScore": 9.6,
+      "trendingScore": 88.0,
+      "trendingPercentage": 90,
+      "rank": 4,
+      "categoryScores": {
+        "Gaming": 9.3,
+        "Kamera": 9.7
+      },
+      "viewCount": 30000,
+      "likeCount": 4200,
+      "detailViewCount": 1700,
+      "releaseDate": "2024-09-20T00:00:00Z",
+      "antutuScore": 2200000,
+      "trendReason": "iPhone 16 Pro Max dengan A18 Pro",
+      "reviews": 1900
+    },
+    {
+      "id": "iphone-16-pro",
+      "name": "iPhone 16 Pro",
+      "brand": "Apple",
+      "rating": 4.7,
+      "price": 18999000,
+      "imageUrl": "",
+      "features": [
+        "A18 Pro",
+        "256GB",
+        "48MP"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "iOS 18",
+          "Chipset": "Apple A18 Pro (3 nm)",
+          "CPU": "Hexa-core",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM, 512GB 8GB RAM, 1TB 8GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "LTPO Super Retina XDR OLED, 120Hz",
+          "Size": "6.1 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "48 MP (wide), 12 MP (ultrawide), 12 MP (telephoto)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 4500 mAh",
+          "Charging": "Wired, MagSafe wireless"
+        },
+        "antutu": 2150000,
+        "mainCameraMP": 48,
+        "battery": 4500,
+        "displayScore": 0.97,
+        "buildQuality": 0.98,
+        "ram": 8,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.6
+      },
+      "categories": [
+        "Gaming",
+        "Kamera"
+      ],
+      "description": "iPhone 16 Pro dengan A18 Pro dalam ukuran compact",
+      "colors": [
+        "Natural Titanium",
+        "Blue Titanium",
+        "White Titanium",
+        "Black Titanium"
+      ],
+      "advantages": [
+        "Chip A18 Pro",
+        "Ukuran compact",
+        "Kamera 48MP",
+        "Build quality premium"
+      ],
+      "disadvantages": [
+        "Harga mahal",
+        "Baterai lebih kecil"
+      ],
+      "overallScore": 9.5,
+      "trendingScore": 86.0,
+      "trendingPercentage": 88,
+      "rank": 5,
+      "categoryScores": {
+        "Gaming": 9.2,
+        "Kamera": 9.6
+      },
+      "viewCount": 27000,
+      "likeCount": 3800,
+      "detailViewCount": 1400,
+      "releaseDate": "2024-09-20T00:00:00Z",
+      "antutuScore": 2150000,
+      "trendReason": "iPhone 16 Pro dengan A18 Pro",
+      "reviews": 1700
+    },
+    {
+      "id": "samsung-galaxy-s25-plus",
+      "name": "Samsung Galaxy S25+",
+      "brand": "Samsung",
+      "rating": 4.7,
+      "price": 15999000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 8 Elite",
+        "12GB RAM",
+        "256GB",
+        "120Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, One UI 7.0",
+          "Chipset": "Qualcomm SM8650 Snapdragon 8 Elite",
+          "CPU": "Octa-core",
+          "GPU": "Adreno 750"
+        },
+        "MEMORY": {
+          "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "Dynamic LTPO AMOLED 2X, 120Hz",
+          "Size": "6.7 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 12 MP (ultrawide), 10 MP (telephoto)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 4900 mAh",
+          "Charging": "45W wired, 15W wireless"
+        },
+        "antutu": 2750000,
+        "mainCameraMP": 50,
+        "battery": 4900,
+        "displayScore": 0.97,
+        "buildQuality": 0.95,
+        "ram": 12,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.8
+      },
+      "categories": [
+        "Gaming",
+        "Kamera"
+      ],
+      "description": "Samsung Galaxy S25+ dengan performa flagship",
+      "colors": [
+        "Titanium Black",
+        "Titanium Gray",
+        "Titanium Violet"
+      ],
+      "advantages": [
+        "Snapdragon 8 Elite",
+        "Kamera bagus",
+        "Display AMOLED terbaik",
+        "Build quality premium"
+      ],
+      "disadvantages": [
+        "Harga mahal",
+        "Charging tidak secepat kompetitor"
+      ],
+      "overallScore": 9.4,
+      "trendingScore": 85.0,
+      "trendingPercentage": 70,
+      "rank": 2,
+      "categoryScores": {
+        "Gaming": 9.2,
+        "Kamera": 9.5
+      },
+      "viewCount": 25000,
+      "likeCount": 3500,
+      "detailViewCount": 1200,
+      "releaseDate": "2025-01-20T00:00:00Z",
+      "antutuScore": 2750000,
+      "trendReason": "Samsung Galaxy S25+ dengan Snapdragon 8 Elite",
+      "reviews": 1400
+    },
+    {
+      "id": "samsung-galaxy-s25",
+      "name": "Samsung Galaxy S25",
+      "brand": "Samsung",
+      "rating": 4.6,
+      "price": 12999000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 8 Elite",
+        "12GB RAM",
+        "256GB",
+        "120Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, One UI 7.0",
+          "Chipset": "Qualcomm SM8650 Snapdragon 8 Elite",
+          "CPU": "Octa-core",
+          "GPU": "Adreno 750"
+        },
+        "MEMORY": {
+          "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "Dynamic LTPO AMOLED 2X, 120Hz",
+          "Size": "6.2 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 12 MP (ultrawide), 10 MP (telephoto)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 4000 mAh",
+          "Charging": "25W wired, 15W wireless"
+        },
+        "antutu": 2668328,
+        "mainCameraMP": 50,
+        "battery": 4000,
+        "displayScore": 0.96,
+        "buildQuality": 0.94,
+        "ram": 12,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.75
+      },
+      "categories": [
+        "Gaming",
+        "Kamera"
+      ],
+      "description": "Samsung Galaxy S25 dengan ukuran compact",
+      "colors": [
+        "Titanium Black",
+        "Titanium Gray",
+        "Titanium Violet"
+      ],
+      "advantages": [
+        "Snapdragon 8 Elite",
+        "Ukuran compact",
+        "Kamera bagus",
+        "Display AMOLED"
+      ],
+      "disadvantages": [
+        "Baterai lebih kecil",
+        "Charging lambat"
+      ],
+      "overallScore": 9.2,
+      "trendingScore": 82.0,
+      "trendingPercentage": 68,
+      "rank": 3,
+      "categoryScores": {
+        "Gaming": 9.0,
+        "Kamera": 9.3
+      },
+      "viewCount": 22000,
+      "likeCount": 3200,
+      "detailViewCount": 1100,
+      "releaseDate": "2025-01-20T00:00:00Z",
+      "antutuScore": 2668328,
+      "trendReason": "Samsung Galaxy S25 dengan Snapdragon 8 Elite",
+      "reviews": 1200
+    },
+    {
+      "id": "samsung-galaxy-a36-5g",
+      "name": "Samsung Galaxy A36 5G",
+      "brand": "Samsung",
+      "rating": 4.5,
+      "price": 5199000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 6 Gen 3",
+        "8GB RAM",
+        "256GB",
+        "120Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, One UI 7.0",
+          "Chipset": "Qualcomm Snapdragon 6 Gen 3",
+          "CPU": "Octa-core",
+          "GPU": "Adreno GPU"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "Super AMOLED, 120Hz",
+          "Size": "6.7 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 8 MP (ultrawide), 5 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "25W wired"
+        },
+        "antutu": 600000,
+        "mainCameraMP": 50,
+        "battery": 5000,
+        "displayScore": 0.9,
+        "buildQuality": 0.85,
+        "ram": 8,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.5
+      },
+      "categories": [
+        "4 Jutaan",
+        "Kamera"
+      ],
+      "description": "Samsung Galaxy A36 5G dengan harga terjangkau",
+      "colors": [
+        "Black",
+        "Blue",
+        "Violet"
+      ],
+      "advantages": [
+        "Harga terjangkau",
+        "Display Super AMOLED",
+        "Kamera 50MP OIS",
+        "Baterai 5000mAh"
+      ],
+      "disadvantages": [
+        "Chipset mid-range",
+        "Tidak ada telephoto"
+      ],
+      "overallScore": 8.0,
+      "trendingScore": 65.0,
+      "trendingPercentage": 45,
+      "rank": 1,
+      "categoryScores": {
+        "4 Jutaan": 8.5,
+        "Kamera": 8.2
+      },
+      "viewCount": 15000,
+      "likeCount": 2200,
+      "detailViewCount": 800,
+      "releaseDate": "2025-03-15T00:00:00Z",
+      "antutuScore": 600000,
+      "trendReason": "Samsung Galaxy A36 5G dengan harga terjangkau",
+      "reviews": 900
+    },
+    {
+      "id": "samsung-galaxy-a35-5g",
+      "name": "Samsung Galaxy A35 5G",
+      "brand": "Samsung",
+      "rating": 4.4,
+      "price": 3999000,
+      "imageUrl": "",
+      "features": [
+        "Exynos 1380",
+        "8GB RAM",
+        "256GB",
+        "120Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, One UI 7.0",
+          "Chipset": "Samsung Exynos 1380",
+          "CPU": "Octa-core",
+          "GPU": "Mali-G68 MP5"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "Super AMOLED, 120Hz",
+          "Size": "6.6 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 8 MP (ultrawide), 5 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "25W wired"
+        },
+        "antutu": 550000,
+        "mainCameraMP": 50,
+        "battery": 5000,
+        "displayScore": 0.88,
+        "buildQuality": 0.82,
+        "ram": 8,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.5
+      },
+      "categories": [
+        "3 Jutaan",
+        "Kamera"
+      ],
+      "description": "Samsung Galaxy A35 5G dengan harga terjangkau",
+      "colors": [
+        "Black",
+        "Blue",
+        "Lilac"
+      ],
+      "advantages": [
+        "Harga terjangkau",
+        "Display Super AMOLED 120Hz",
+        "Kamera 50MP OIS",
+        "Baterai 5000mAh"
+      ],
+      "disadvantages": [
+        "Chipset Exynos",
+        "Tidak ada telephoto"
+      ],
+      "overallScore": 7.8,
+      "trendingScore": 60.0,
+      "trendingPercentage": 40,
+      "rank": 1,
+      "categoryScores": {
+        "3 Jutaan": 8.2,
+        "Kamera": 8.0
+      },
+      "viewCount": 12000,
+      "likeCount": 1800,
+      "detailViewCount": 600,
+      "releaseDate": "2025-02-10T00:00:00Z",
+      "antutuScore": 550000,
+      "trendReason": "Samsung Galaxy A35 5G dengan harga terjangkau",
+      "reviews": 750
+    },
+    {
+      "id": "samsung-galaxy-a15",
+      "name": "Samsung Galaxy A15",
+      "brand": "Samsung",
+      "rating": 4.3,
+      "price": 2499000,
+      "imageUrl": "",
+      "features": [
+        "Helio G99",
+        "8GB RAM",
+        "256GB",
+        "90Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, One UI 7.0",
+          "Chipset": "MediaTek Helio G99",
+          "CPU": "Octa-core",
+          "GPU": "Mali-G57 MC2"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "Super AMOLED, 90Hz",
+          "Size": "6.5 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 5 MP (ultrawide), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "25W wired"
+        },
+        "antutu": 400000,
+        "mainCameraMP": 50,
+        "battery": 5000,
+        "displayScore": 0.8,
+        "buildQuality": 0.75,
+        "ram": 8,
+        "refreshRate": 90,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": false,
+        "hasOIS": false,
+        "cooling": 0.4
+      },
+      "categories": [
+        "2 Jutaan"
+      ],
+      "description": "Samsung Galaxy A15 dengan harga terjangkau",
+      "colors": [
+        "Black",
+        "Blue",
+        "Yellow"
+      ],
+      "advantages": [
+        "Harga sangat terjangkau",
+        "Display Super AMOLED",
+        "Kamera 50MP",
+        "Baterai 5000mAh"
+      ],
+      "disadvantages": [
+        "Chipset entry-level",
+        "Tidak ada OIS",
+        "Refresh rate 90Hz"
+      ],
+      "overallScore": 7.2,
+      "trendingScore": 55.0,
+      "trendingPercentage": 35,
+      "rank": 1,
+      "categoryScores": {
+        "2 Jutaan": 7.8
+      },
+      "viewCount": 10000,
+      "likeCount": 1500,
+      "detailViewCount": 500,
+      "releaseDate": "2025-01-15T00:00:00Z",
+      "antutuScore": 400000,
+      "trendReason": "Samsung Galaxy A15 dengan harga sangat terjangkau",
+      "reviews": 600
+    },
+    {
+      "id": "xiaomi-15-ultra",
+      "name": "Xiaomi 15 Ultra",
+      "brand": "Xiaomi",
+      "rating": 4.8,
+      "price": 16999000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 8 Elite",
+        "16GB RAM",
+        "512GB",
+        "200MP Leica"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, MIUI 16",
+          "Chipset": "Qualcomm SM8650 Snapdragon 8 Elite",
+          "CPU": "Octa-core",
+          "GPU": "Adreno 750"
+        },
+        "MEMORY": {
+          "Internal": "512GB 16GB RAM, 1TB 16GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "LTPO AMOLED, 120Hz",
+          "Size": "6.7 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "200 MP Leica (periscope), 50 MP (ultrawide), 50 MP (telephoto)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5200 mAh",
+          "Charging": "120W wired, 50W wireless"
+        },
+        "antutu": 2949035,
+        "mainCameraMP": 200,
+        "battery": 5200,
+        "displayScore": 0.97,
+        "buildQuality": 0.94,
+        "ram": 16,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.85
+      },
+      "categories": [
+        "Gaming",
+        "Kamera"
+      ],
+      "description": "Xiaomi 15 Ultra dengan kamera Leica 200MP",
+      "colors": [
+        "Black",
+        "Blue",
+        "White"
+      ],
+      "advantages": [
+        "Kamera Leica 200MP",
+        "Snapdragon 8 Elite",
+        "Charging super cepat 120W",
+        "RAM 16GB"
+      ],
+      "disadvantages": [
+        "Harga mahal",
+        "MIUI bisa terlalu banyak bloatware"
+      ],
+      "overallScore": 9.5,
+      "trendingScore": 88.0,
+      "trendingPercentage": 74,
+      "rank": 1,
+      "categoryScores": {
+        "Gaming": 9.3,
+        "Kamera": 9.8
+      },
+      "viewCount": 28000,
+      "likeCount": 4000,
+      "detailViewCount": 1600,
+      "releaseDate": "2025-07-20T00:00:00Z",
+      "antutuScore": 2949035,
+      "trendReason": "Xiaomi 15 Ultra dengan kamera Leica 200MP",
+      "reviews": 1500
+    },
+    {
+      "id": "xiaomi-redmi-note-14-pro-plus-5g",
+      "name": "Xiaomi Redmi Note 14 Pro+ 5G",
+      "brand": "Xiaomi",
+      "rating": 4.6,
+      "price": 4499000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 7s Gen 3",
+        "8GB RAM",
+        "256GB",
+        "200MP",
+        "120Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, MIUI 16",
+          "Chipset": "Qualcomm Snapdragon 7s Gen 3",
+          "CPU": "Octa-core",
+          "GPU": "Adreno GPU"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM, 512GB 12GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED 1.5K, 120Hz",
+          "Size": "6.67 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "200 MP (wide), 8 MP (ultrawide), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "120W HyperCharge"
+        },
+        "antutu": 800000,
+        "mainCameraMP": 200,
+        "battery": 5000,
+        "displayScore": 0.92,
+        "buildQuality": 0.88,
+        "ram": 8,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.6
+      },
+      "categories": [
+        "4 Jutaan",
+        "Kamera"
+      ],
+      "description": "Redmi Note 14 Pro+ dengan kamera 200MP dan charging 120W",
+      "colors": [
+        "Black",
+        "Blue",
+        "Purple"
+      ],
+      "advantages": [
+        "Kamera 200MP",
+        "Charging super cepat 120W",
+        "Display AMOLED 1.5K",
+        "Harga terjangkau"
+      ],
+      "disadvantages": [
+        "Chipset mid-range",
+        "Tidak ada telephoto"
+      ],
+      "overallScore": 8.5,
+      "trendingScore": 70.0,
+      "trendingPercentage": 50,
+      "rank": 1,
+      "categoryScores": {
+        "4 Jutaan": 8.8,
+        "Kamera": 8.7
+      },
+      "viewCount": 18000,
+      "likeCount": 2600,
+      "detailViewCount": 900,
+      "releaseDate": "2025-03-10T00:00:00Z",
+      "antutuScore": 800000,
+      "trendReason": "Redmi Note 14 Pro+ dengan kamera 200MP dan charging 120W",
+      "reviews": 1100
+    },
+    {
+      "id": "xiaomi-redmi-note-14-pro-5g",
+      "name": "Xiaomi Redmi Note 14 Pro 5G",
+      "brand": "Xiaomi",
+      "rating": 4.5,
+      "price": 3499000,
+      "imageUrl": "",
+      "features": [
+        "Dimensity 7300 Ultra",
+        "8GB RAM",
+        "256GB",
+        "200MP",
+        "120Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, MIUI 16",
+          "Chipset": "MediaTek Dimensity 7300 Ultra",
+          "CPU": "Octa-core",
+          "GPU": "Mali-G615"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.67 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "200 MP (wide), 8 MP (ultrawide), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5110 mAh",
+          "Charging": "67W HyperCharge"
+        },
+        "antutu": 700000,
+        "mainCameraMP": 200,
+        "battery": 5110,
+        "displayScore": 0.9,
+        "buildQuality": 0.85,
+        "ram": 8,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.55
+      },
+      "categories": [
+        "3 Jutaan",
+        "Kamera"
+      ],
+      "description": "Redmi Note 14 Pro dengan kamera 200MP",
+      "colors": [
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "advantages": [
+        "Kamera 200MP",
+        "Display AMOLED 120Hz",
+        "Charging cepat 67W",
+        "Harga terjangkau"
+      ],
+      "disadvantages": [
+        "Chipset mid-range",
+        "Tidak ada telephoto"
+      ],
+      "overallScore": 8.2,
+      "trendingScore": 65.0,
+      "trendingPercentage": 45,
+      "rank": 1,
+      "categoryScores": {
+        "3 Jutaan": 8.5,
+        "Kamera": 8.6
+      },
+      "viewCount": 15000,
+      "likeCount": 2200,
+      "detailViewCount": 750,
+      "releaseDate": "2025-02-20T00:00:00Z",
+      "antutuScore": 700000,
+      "trendReason": "Redmi Note 14 Pro dengan kamera 200MP",
+      "reviews": 950
+    },
+    {
+      "id": "xiaomi-redmi-note-12",
+      "name": "Xiaomi Redmi Note 12",
+      "brand": "Xiaomi",
+      "rating": 4.4,
+      "price": 2499000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 685",
+        "8GB RAM",
+        "256GB",
+        "50MP",
+        "120Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 14, MIUI 15",
+          "Chipset": "Qualcomm Snapdragon 685",
+          "CPU": "Octa-core",
+          "GPU": "Adreno 610"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.67 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 8 MP (ultrawide), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "33W fast charging"
+        },
+        "antutu": 450000,
+        "mainCameraMP": 50,
+        "battery": 5000,
+        "displayScore": 0.85,
+        "buildQuality": 0.8,
+        "ram": 8,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": false,
+        "hasOIS": false,
+        "cooling": 0.4
+      },
+      "categories": [
+        "2 Jutaan"
+      ],
+      "description": "Redmi Note 12 dengan display AMOLED 120Hz",
+      "colors": [
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "advantages": [
+        "Display AMOLED 120Hz",
+        "Harga terjangkau",
+        "Kamera 50MP",
+        "Baterai 5000mAh"
+      ],
+      "disadvantages": [
+        "Chipset entry-level",
+        "Tidak ada OIS",
+        "Charging lambat"
+      ],
+      "overallScore": 7.5,
+      "trendingScore": 58.0,
+      "trendingPercentage": 38,
+      "rank": 1,
+      "categoryScores": {
+        "2 Jutaan": 8.0
+      },
+      "viewCount": 12000,
+      "likeCount": 1800,
+      "detailViewCount": 600,
+      "releaseDate": "2024-11-15T00:00:00Z",
+      "antutuScore": 450000,
+      "trendReason": "Redmi Note 12 dengan display AMOLED 120Hz",
+      "reviews": 700
+    },
+    {
+      "id": "xiaomi-poco-x7-pro-5g",
+      "name": "POCO X7 Pro 5G",
+      "brand": "Xiaomi",
+      "rating": 4.6,
+      "price": 3999000,
+      "imageUrl": "",
+      "features": [
+        "Dimensity 8400 Ultra",
+        "12GB RAM",
+        "256GB",
+        "120Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, MIUI 16",
+          "Chipset": "MediaTek Dimensity 8400 Ultra",
+          "CPU": "Octa-core",
+          "GPU": "Mali-G615"
+        },
+        "MEMORY": {
+          "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.78 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 8 MP (ultrawide), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 6000 mAh",
+          "Charging": "90W fast charging"
+        },
+        "antutu": 750000,
+        "mainCameraMP": 50,
+        "battery": 6000,
+        "displayScore": 0.91,
+        "buildQuality": 0.86,
+        "ram": 12,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.6
+      },
+      "categories": [
+        "3 Jutaan",
+        "Gaming"
+      ],
+      "description": "POCO X7 Pro dengan performa gaming dan baterai besar",
+      "colors": [
+        "Black",
+        "Yellow",
+        "Blue"
+      ],
+      "advantages": [
+        "Performa gaming bagus",
+        "Baterai besar 6000mAh",
+        "Charging cepat 90W",
+        "RAM 12GB"
+      ],
+      "disadvantages": [
+        "Kamera tidak sebaik flagship",
+        "Tidak ada telephoto"
+      ],
+      "overallScore": 8.3,
+      "trendingScore": 68.0,
+      "trendingPercentage": 48,
+      "rank": 2,
+      "categoryScores": {
+        "3 Jutaan": 8.6,
+        "Gaming": 8.4
+      },
+      "viewCount": 16000,
+      "likeCount": 2400,
+      "detailViewCount": 800,
+      "releaseDate": "2025-03-20T00:00:00Z",
+      "antutuScore": 750000,
+      "trendReason": "POCO X7 Pro dengan performa gaming dan baterai besar",
+      "reviews": 1000
+    },
+    {
+      "id": "oppo-reno-13f-5g",
+      "name": "OPPO Reno 13F 5G",
+      "brand": "OPPO",
+      "rating": 4.5,
+      "price": 5599000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 6 Gen 1",
+        "8GB RAM",
+        "256GB",
+        "50MP"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, ColorOS 15",
+          "Chipset": "Qualcomm Snapdragon 6 Gen 1",
+          "CPU": "Octa-core",
+          "GPU": "Adreno GPU"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM, 512GB 12GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.67 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 8 MP (ultrawide), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5800 mAh",
+          "Charging": "67W fast charging"
+        },
+        "antutu": 650000,
+        "mainCameraMP": 50,
+        "battery": 5800,
+        "displayScore": 0.89,
+        "buildQuality": 0.87,
+        "ram": 8,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.5
+      },
+      "categories": [
+        "4 Jutaan"
+      ],
+      "description": "OPPO Reno 13F 5G dengan baterai besar",
+      "colors": [
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "advantages": [
+        "Baterai besar 5800mAh",
+        "Display AMOLED 120Hz",
+        "Charging cepat 67W",
+        "Harga terjangkau"
+      ],
+      "disadvantages": [
+        "Chipset mid-range",
+        "Tidak ada telephoto"
+      ],
+      "overallScore": 8.1,
+      "trendingScore": 63.0,
+      "trendingPercentage": 43,
+      "rank": 2,
+      "categoryScores": {
+        "4 Jutaan": 8.4
+      },
+      "viewCount": 14000,
+      "likeCount": 2100,
+      "detailViewCount": 700,
+      "releaseDate": "2025-02-15T00:00:00Z",
+      "antutuScore": 650000,
+      "trendReason": "OPPO Reno 13F 5G dengan baterai besar",
+      "reviews": 850
+    },
+    {
+      "id": "oppo-reno-13-pro",
+      "name": "OPPO Reno 13 Pro",
+      "brand": "OPPO",
+      "rating": 4.6,
+      "price": 7999000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 7 Gen 3",
+        "12GB RAM",
+        "256GB",
+        "50MP"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, ColorOS 15",
+          "Chipset": "Qualcomm Snapdragon 7 Gen 3",
+          "CPU": "Octa-core",
+          "GPU": "Adreno GPU"
+        },
+        "MEMORY": {
+          "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.7 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 32 MP (telephoto), 8 MP (ultrawide)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "80W fast charging"
+        },
+        "antutu": 850000,
+        "mainCameraMP": 50,
+        "battery": 5000,
+        "displayScore": 0.92,
+        "buildQuality": 0.9,
+        "ram": 12,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.6
+      },
+      "categories": [
+        "Kamera"
+      ],
+      "description": "OPPO Reno 13 Pro dengan kamera telephoto",
+      "colors": [
+        "Black",
+        "Blue",
+        "Orange"
+      ],
+      "advantages": [
+        "Kamera telephoto 32MP",
+        "Charging cepat 80W",
+        "Display AMOLED 120Hz",
+        "RAM 12GB"
+      ],
+      "disadvantages": [
+        "Harga cukup mahal",
+        "Chipset mid-range"
+      ],
+      "overallScore": 8.4,
+      "trendingScore": 72.0,
+      "trendingPercentage": 52,
+      "rank": 1,
+      "categoryScores": {
+        "Kamera": 8.8
+      },
+      "viewCount": 17000,
+      "likeCount": 2500,
+      "detailViewCount": 850,
+      "releaseDate": "2025-03-01T00:00:00Z",
+      "antutuScore": 850000,
+      "trendReason": "OPPO Reno 13 Pro dengan kamera telephoto",
+      "reviews": 1050
+    },
+    {
+      "id": "oppo-a5-pro",
+      "name": "OPPO A5 Pro",
+      "brand": "OPPO",
+      "rating": 4.4,
+      "price": 3499000,
+      "imageUrl": "",
+      "features": [
+        "Helio G99",
+        "8GB RAM",
+        "256GB",
+        "50MP"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, ColorOS 15",
+          "Chipset": "MediaTek Helio G99",
+          "CPU": "Octa-core",
+          "GPU": "Mali-G57 MC2"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "IPS LCD, 90Hz",
+          "Size": "6.7 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 2 MP (depth), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5800 mAh",
+          "Charging": "33W fast charging"
+        },
+        "antutu": 420000,
+        "mainCameraMP": 50,
+        "battery": 5800,
+        "displayScore": 0.75,
+        "buildQuality": 0.78,
+        "ram": 8,
+        "refreshRate": 90,
+        "hasUltrawide": false,
+        "hasTelephoto": false,
+        "video4K": false,
+        "hasOIS": false,
+        "cooling": 0.4
+      },
+      "categories": [
+        "3 Jutaan"
+      ],
+      "description": "OPPO A5 Pro dengan baterai besar",
+      "colors": [
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "advantages": [
+        "Baterai sangat besar 5800mAh",
+        "Harga terjangkau",
+        "Kamera 50MP",
+        "RAM 8GB"
+      ],
+      "disadvantages": [
+        "Display IPS LCD",
+        "Chipset entry-level",
+        "Tidak ada OIS"
+      ],
+      "overallScore": 7.6,
+      "trendingScore": 56.0,
+      "trendingPercentage": 36,
+      "rank": 3,
+      "categoryScores": {
+        "3 Jutaan": 7.9
+      },
+      "viewCount": 11000,
+      "likeCount": 1600,
+      "detailViewCount": 550,
+      "releaseDate": "2025-01-20T00:00:00Z",
+      "antutuScore": 420000,
+      "trendReason": "OPPO A5 Pro dengan baterai besar",
+      "reviews": 650
+    },
+    {
+      "id": "vivo-v30e",
+      "name": "vivo V30e",
+      "brand": "vivo",
+      "rating": 4.5,
+      "price": 4299000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 6 Gen 1",
+        "8GB RAM",
+        "256GB",
+        "50MP Sony"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, Funtouch OS 15",
+          "Chipset": "Qualcomm Snapdragon 6 Gen 1",
+          "CPU": "Octa-core",
+          "GPU": "Adreno GPU"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.5 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP Sony IMX882 (wide), 8 MP (ultrawide), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5500 mAh",
+          "Charging": "44W fast charging"
+        },
+        "antutu": 630000,
+        "mainCameraMP": 50,
+        "battery": 5500,
+        "displayScore": 0.88,
+        "buildQuality": 0.86,
+        "ram": 8,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.5
+      },
+      "categories": [
+        "4 Jutaan",
+        "Kamera"
+      ],
+      "description": "vivo V30e dengan kamera Sony IMX882",
+      "colors": [
+        "Black",
+        "Blue",
+        "Purple"
+      ],
+      "advantages": [
+        "Kamera Sony IMX882",
+        "Display AMOLED 120Hz",
+        "Baterai besar 5500mAh",
+        "Harga terjangkau"
+      ],
+      "disadvantages": [
+        "Chipset mid-range",
+        "Tidak ada telephoto"
+      ],
+      "overallScore": 8.0,
+      "trendingScore": 62.0,
+      "trendingPercentage": 42,
+      "rank": 3,
+      "categoryScores": {
+        "4 Jutaan": 8.3,
+        "Kamera": 8.4
+      },
+      "viewCount": 13000,
+      "likeCount": 2000,
+      "detailViewCount": 650,
+      "releaseDate": "2025-02-25T00:00:00Z",
+      "antutuScore": 630000,
+      "trendReason": "vivo V30e dengan kamera Sony IMX882",
+      "reviews": 800
+    },
+    {
+      "id": "vivo-v30-5g",
+      "name": "vivo V30 5G",
+      "brand": "vivo",
+      "rating": 4.6,
+      "price": 5999000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 7 Gen 3",
+        "12GB RAM",
+        "256GB",
+        "50MP Zeiss"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, Funtouch OS 15",
+          "Chipset": "Qualcomm Snapdragon 7 Gen 3",
+          "CPU": "Octa-core",
+          "GPU": "Adreno GPU"
+        },
+        "MEMORY": {
+          "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.78 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP Zeiss (wide), 50 MP (front), 8 MP (ultrawide)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "80W FlashCharge"
+        },
+        "antutu": 820000,
+        "mainCameraMP": 50,
+        "battery": 5000,
+        "displayScore": 0.91,
+        "buildQuality": 0.89,
+        "ram": 12,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.6
+      },
+      "categories": [
+        "Kamera"
+      ],
+      "description": "vivo V30 dengan kamera Zeiss",
+      "colors": [
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "advantages": [
+        "Kamera Zeiss",
+        "Kamera depan 50MP",
+        "Charging cepat 80W",
+        "Display AMOLED 120Hz"
+      ],
+      "disadvantages": [
+        "Harga cukup mahal",
+        "Tidak ada telephoto"
+      ],
+      "overallScore": 8.5,
+      "trendingScore": 73.0,
+      "trendingPercentage": 53,
+      "rank": 2,
+      "categoryScores": {
+        "Kamera": 8.9
+      },
+      "viewCount": 18000,
+      "likeCount": 2600,
+      "detailViewCount": 900,
+      "releaseDate": "2025-03-05T00:00:00Z",
+      "antutuScore": 820000,
+      "trendReason": "vivo V30 dengan kamera Zeiss",
+      "reviews": 1100
+    },
+    {
+      "id": "vivo-v50-lite-5g",
+      "name": "vivo V50 Lite 5G",
+      "brand": "vivo",
+      "rating": 4.4,
+      "price": 3499000,
+      "imageUrl": "",
+      "features": [
+        "Dimensity 6300",
+        "8GB RAM",
+        "256GB",
+        "50MP"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, Funtouch OS 15",
+          "Chipset": "MediaTek Dimensity 6300",
+          "CPU": "Octa-core",
+          "GPU": "Mali-G57"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "P-OLED, 120Hz",
+          "Size": "6.77 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 8 MP (ultrawide), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 6500 mAh",
+          "Charging": "44W fast charging"
+        },
+        "antutu": 680000,
+        "mainCameraMP": 50,
+        "battery": 6500,
+        "displayScore": 0.87,
+        "buildQuality": 0.84,
+        "ram": 8,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.5
+      },
+      "categories": [
+        "3 Jutaan"
+      ],
+      "description": "vivo V50 Lite dengan baterai sangat besar",
+      "colors": [
+        "Black",
+        "Blue",
+        "Purple"
+      ],
+      "advantages": [
+        "Baterai sangat besar 6500mAh",
+        "Display P-OLED 120Hz",
+        "Harga terjangkau",
+        "Kamera 50MP"
+      ],
+      "disadvantages": [
+        "Chipset mid-range",
+        "Tidak ada telephoto"
+      ],
+      "overallScore": 8.1,
+      "trendingScore": 64.0,
+      "trendingPercentage": 44,
+      "rank": 3,
+      "categoryScores": {
+        "3 Jutaan": 8.4
+      },
+      "viewCount": 14000,
+      "likeCount": 2100,
+      "detailViewCount": 700,
+      "releaseDate": "2025-02-28T00:00:00Z",
+      "antutuScore": 680000,
+      "trendReason": "vivo V50 Lite dengan baterai sangat besar",
+      "reviews": 850
+    },
+    {
+      "id": "realme-13-pro-plus-5g",
+      "name": "Realme 13 Pro+ 5G",
+      "brand": "Realme",
+      "rating": 4.6,
+      "price": 4999000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 7s Gen 3",
+        "12GB RAM",
+        "256GB",
+        "200MP",
+        "120Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, Realme UI 6.0",
+          "Chipset": "Qualcomm Snapdragon 7s Gen 3",
+          "CPU": "Octa-core",
+          "GPU": "Adreno GPU"
+        },
+        "MEMORY": {
+          "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.7 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "200 MP (wide), 8 MP (ultrawide), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "67W fast charging"
+        },
+        "antutu": 780000,
+        "mainCameraMP": 200,
+        "battery": 5000,
+        "displayScore": 0.9,
+        "buildQuality": 0.88,
+        "ram": 12,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.6
+      },
+      "categories": [
+        "4 Jutaan",
+        "Kamera"
+      ],
+      "description": "Realme 13 Pro+ dengan kamera 200MP",
+      "colors": [
+        "Black",
+        "Blue",
+        "Orange"
+      ],
+      "advantages": [
+        "Kamera 200MP",
+        "Display AMOLED 120Hz",
+        "Charging cepat 67W",
+        "RAM 12GB"
+      ],
+      "disadvantages": [
+        "Chipset mid-range",
+        "Tidak ada telephoto"
+      ],
+      "overallScore": 8.4,
+      "trendingScore": 71.0,
+      "trendingPercentage": 51,
+      "rank": 4,
+      "categoryScores": {
+        "4 Jutaan": 8.6,
+        "Kamera": 8.7
+      },
+      "viewCount": 16000,
+      "likeCount": 2400,
+      "detailViewCount": 800,
+      "releaseDate": "2025-03-12T00:00:00Z",
+      "antutuScore": 780000,
+      "trendReason": "Realme 13 Pro+ dengan kamera 200MP",
+      "reviews": 1000
+    },
+    {
+      "id": "realme-14-5g",
+      "name": "Realme 14 5G",
+      "brand": "Realme",
+      "rating": 4.5,
+      "price": 3999000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 6 Gen 4",
+        "8GB RAM",
+        "256GB",
+        "50MP",
+        "120Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, Realme UI 6.0",
+          "Chipset": "Qualcomm Snapdragon 6 Gen 4",
+          "CPU": "Octa-core",
+          "GPU": "Adreno GPU"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.6 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 8 MP (ultrawide), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 6000 mAh",
+          "Charging": "45W fast charging"
+        },
+        "antutu": 700000,
+        "mainCameraMP": 50,
+        "battery": 6000,
+        "displayScore": 0.88,
+        "buildQuality": 0.85,
+        "ram": 8,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.5
+      },
+      "categories": [
+        "3 Jutaan"
+      ],
+      "description": "Realme 14 5G dengan baterai besar",
+      "colors": [
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "advantages": [
+        "Baterai besar 6000mAh",
+        "Display AMOLED 120Hz",
+        "Harga terjangkau",
+        "Kamera 50MP"
+      ],
+      "disadvantages": [
+        "Chipset mid-range",
+        "Tidak ada telephoto"
+      ],
+      "overallScore": 8.0,
+      "trendingScore": 61.0,
+      "trendingPercentage": 41,
+      "rank": 4,
+      "categoryScores": {
+        "3 Jutaan": 8.3
+      },
+      "viewCount": 13000,
+      "likeCount": 1900,
+      "detailViewCount": 650,
+      "releaseDate": "2025-02-18T00:00:00Z",
+      "antutuScore": 700000,
+      "trendReason": "Realme 14 5G dengan baterai besar",
+      "reviews": 800
+    },
+    {
+      "id": "realme-c75",
+      "name": "Realme C75",
+      "brand": "Realme",
+      "rating": 4.3,
+      "price": 2999000,
+      "imageUrl": "",
+      "features": [
+        "Helio G92 Max",
+        "8GB RAM",
+        "256GB",
+        "50MP"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, Realme UI 6.0",
+          "Chipset": "MediaTek Helio G92 Max",
+          "CPU": "Octa-core",
+          "GPU": "Mali-G57 MC2"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "IPS LCD, 90Hz",
+          "Size": "6.72 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 2 MP (depth), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 6000 mAh",
+          "Charging": "33W fast charging"
+        },
+        "antutu": 410000,
+        "mainCameraMP": 50,
+        "battery": 6000,
+        "displayScore": 0.75,
+        "buildQuality": 0.77,
+        "ram": 8,
+        "refreshRate": 90,
+        "hasUltrawide": false,
+        "hasTelephoto": false,
+        "video4K": false,
+        "hasOIS": false,
+        "cooling": 0.4
+      },
+      "categories": [
+        "2 Jutaan"
+      ],
+      "description": "Realme C75 dengan baterai besar",
+      "colors": [
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "advantages": [
+        "Baterai sangat besar 6000mAh",
+        "Harga terjangkau",
+        "Kamera 50MP",
+        "RAM 8GB"
+      ],
+      "disadvantages": [
+        "Display IPS LCD",
+        "Chipset entry-level",
+        "Tidak ada OIS"
+      ],
+      "overallScore": 7.4,
+      "trendingScore": 54.0,
+      "trendingPercentage": 34,
+      "rank": 2,
+      "categoryScores": {
+        "2 Jutaan": 7.7
+      },
+      "viewCount": 10500,
+      "likeCount": 1550,
+      "detailViewCount": 520,
+      "releaseDate": "2025-01-25T00:00:00Z",
+      "antutuScore": 410000,
+      "trendReason": "Realme C75 dengan baterai besar",
+      "reviews": 620
+    },
+    {
+      "id": "asus-rog-phone-8",
+      "name": "ASUS ROG Phone 8",
+      "brand": "ASUS",
+      "rating": 4.9,
+      "price": 15999000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 8 Elite Gen 5",
+        "16GB RAM",
+        "512GB",
+        "165Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, ROG UI",
+          "Chipset": "Qualcomm SM8650 Snapdragon 8 Elite Gen 5",
+          "CPU": "Octa-core",
+          "GPU": "Adreno 750"
+        },
+        "MEMORY": {
+          "Internal": "512GB 16GB RAM, 1TB 16GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 165Hz",
+          "Size": "6.78 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "64 MP (wide), 13 MP (ultrawide), 5 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 6000 mAh",
+          "Charging": "65W fast charging"
+        },
+        "antutu": 3800000,
+        "mainCameraMP": 64,
+        "battery": 6000,
+        "displayScore": 0.98,
+        "buildQuality": 0.93,
+        "ram": 16,
+        "refreshRate": 165,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.98
+      },
+      "categories": [
+        "Gaming"
+      ],
+      "description": "ASUS ROG Phone 8 dengan performa gaming terbaik",
+      "colors": [
+        "Black",
+        "Silver"
+      ],
+      "advantages": [
+        "AnTuTu score tinggi",
+        "Refresh rate 165Hz",
+        "Sistem pendingin canggih",
+        "RAM 16GB",
+        "Baterai 6000mAh"
+      ],
+      "disadvantages": [
+        "Desain tebal",
+        "Kamera tidak sebaik flagship",
+        "Harga mahal"
+      ],
+      "overallScore": 9.6,
+      "trendingScore": 93.0,
+      "trendingPercentage": 97,
+      "rank": 2,
+      "categoryScores": {
+        "Gaming": 9.9
+      },
+      "viewCount": 24000,
+      "likeCount": 3400,
+      "detailViewCount": 1150,
+      "releaseDate": "2025-10-20T00:00:00Z",
+      "antutuScore": 3800000,
+      "trendReason": "ASUS ROG Phone 8 dengan performa gaming terbaik",
+      "reviews": 1400
+    },
+    {
+      "id": "black-shark-6-pro",
+      "name": "Black Shark 6 Pro",
+      "brand": "Black Shark",
+      "rating": 4.8,
+      "price": 13999000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 8 Elite Gen 5",
+        "16GB RAM",
+        "512GB",
+        "144Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, JoyUI",
+          "Chipset": "Qualcomm SM8650 Snapdragon 8 Elite Gen 5",
+          "CPU": "Octa-core",
+          "GPU": "Adreno 750"
+        },
+        "MEMORY": {
+          "Internal": "512GB 16GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 144Hz",
+          "Size": "6.67 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "64 MP (wide), 13 MP (ultrawide), 5 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "120W fast charging"
+        },
+        "antutu": 3750000,
+        "mainCameraMP": 64,
+        "battery": 5000,
+        "displayScore": 0.97,
+        "buildQuality": 0.91,
+        "ram": 16,
+        "refreshRate": 144,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.96
+      },
+      "categories": [
+        "Gaming"
+      ],
+      "description": "Black Shark 6 Pro dengan sistem pendingin cair",
+      "colors": [
+        "Black",
+        "Blue"
+      ],
+      "advantages": [
+        "AnTuTu score tinggi",
+        "Sistem pendingin cair",
+        "Refresh rate 144Hz",
+        "Charging super cepat 120W"
+      ],
+      "disadvantages": [
+        "Desain tebal",
+        "Kamera tidak sebaik flagship"
+      ],
+      "overallScore": 9.5,
+      "trendingScore": 91.0,
+      "trendingPercentage": 94,
+      "rank": 3,
+      "categoryScores": {
+        "Gaming": 9.8
+      },
+      "viewCount": 23000,
+      "likeCount": 3300,
+      "detailViewCount": 1100,
+      "releaseDate": "2025-09-25T00:00:00Z",
+      "antutuScore": 3750000,
+      "trendReason": "Black Shark 6 Pro dengan sistem pendingin cair",
+      "reviews": 1350
+    },
+    {
+      "id": "poco-x5-5g",
+      "name": "POCO X5 5G",
+      "brand": "Xiaomi",
+      "rating": 4.4,
+      "price": 2499000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 695",
+        "8GB RAM",
+        "256GB",
+        "48MP",
+        "120Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 14, MIUI 15",
+          "Chipset": "Qualcomm Snapdragon 695",
+          "CPU": "Octa-core",
+          "GPU": "Adreno 619"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.67 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "48 MP (wide), 8 MP (ultrawide), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "33W fast charging"
+        },
+        "antutu": 440000,
+        "mainCameraMP": 48,
+        "battery": 5000,
+        "displayScore": 0.84,
+        "buildQuality": 0.79,
+        "ram": 8,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": false,
+        "hasOIS": false,
+        "cooling": 0.4
+      },
+      "categories": [
+        "2 Jutaan"
+      ],
+      "description": "POCO X5 5G dengan dukungan 5G",
+      "colors": [
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "advantages": [
+        "Dukungan 5G",
+        "Display AMOLED 120Hz",
+        "Harga terjangkau",
+        "Baterai 5000mAh"
+      ],
+      "disadvantages": [
+        "Chipset entry-level",
+        "Tidak ada OIS",
+        "Charging lambat"
+      ],
+      "overallScore": 7.6,
+      "trendingScore": 57.0,
+      "trendingPercentage": 37,
+      "rank": 3,
+      "categoryScores": {
+        "2 Jutaan": 7.9
+      },
+      "viewCount": 11500,
+      "likeCount": 1700,
+      "detailViewCount": 580,
+      "releaseDate": "2024-10-20T00:00:00Z",
+      "antutuScore": 440000,
+      "trendReason": "POCO X5 5G dengan dukungan 5G",
+      "reviews": 680
+    },
+    {
+      "id": "oppo-reno-12-pro",
+      "name": "OPPO Reno 12 Pro",
+      "brand": "OPPO",
+      "rating": 4.6,
+      "price": 6999000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 7 Gen 3",
+        "12GB RAM",
+        "256GB",
+        "50MP",
+        "80W"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, ColorOS 15",
+          "Chipset": "Qualcomm Snapdragon 7 Gen 3",
+          "CPU": "Octa-core",
+          "GPU": "Adreno GPU"
+        },
+        "MEMORY": {
+          "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.7 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 32 MP (telephoto 2x), 8 MP (ultrawide)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "80W fast charging"
+        },
+        "antutu": 840000,
+        "mainCameraMP": 50,
+        "battery": 5000,
+        "displayScore": 0.91,
+        "buildQuality": 0.89,
+        "ram": 12,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.6
+      },
+      "categories": [
+        "Kamera"
+      ],
+      "description": "OPPO Reno 12 Pro dengan kamera telephoto 2x",
+      "colors": [
+        "Black",
+        "Blue",
+        "Orange"
+      ],
+      "advantages": [
+        "Kamera telephoto 2x",
+        "Charging cepat 80W",
+        "Display AMOLED 120Hz",
+        "RAM 12GB"
+      ],
+      "disadvantages": [
+        "Harga cukup mahal",
+        "Chipset mid-range"
+      ],
+      "overallScore": 8.3,
+      "trendingScore": 70.0,
+      "trendingPercentage": 50,
+      "rank": 2,
+      "categoryScores": {
+        "Kamera": 8.7
+      },
+      "viewCount": 16000,
+      "likeCount": 2400,
+      "detailViewCount": 800,
+      "releaseDate": "2025-02-28T00:00:00Z",
+      "antutuScore": 840000,
+      "trendReason": "OPPO Reno 12 Pro dengan kamera telephoto 2x",
+      "reviews": 980
+    },
+    {
+      "id": "vivo-x200-pro",
+      "name": "vivo X200 Pro",
+      "brand": "vivo",
+      "rating": 4.7,
+      "price": 15999000,
+      "imageUrl": "",
+      "features": [
+        "Dimensity 9400",
+        "12GB RAM",
+        "512GB",
+        "50MP Zeiss"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, OriginOS 5",
+          "Chipset": "MediaTek Dimensity 9400",
+          "CPU": "Octa-core",
+          "GPU": "Mali-G720"
+        },
+        "MEMORY": {
+          "Internal": "512GB 12GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.7 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP Zeiss (wide), 50 MP (ultrawide), 12 MP (telephoto)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "120W fast charging"
+        },
+        "antutu": 2696739,
+        "mainCameraMP": 50,
+        "battery": 5000,
+        "displayScore": 0.95,
+        "buildQuality": 0.92,
+        "ram": 12,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": true,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.75
+      },
+      "categories": [
+        "Kamera"
+      ],
+      "description": "vivo X200 Pro dengan kamera Zeiss",
+      "colors": [
+        "Black",
+        "Blue",
+        "Purple"
+      ],
+      "advantages": [
+        "Kamera Zeiss",
+        "Charging super cepat 120W",
+        "Display AMOLED 120Hz",
+        "Dimensity 9400"
+      ],
+      "disadvantages": [
+        "Harga mahal",
+        "MediaTek kurang populer"
+      ],
+      "overallScore": 9.1,
+      "trendingScore": 84.0,
+      "trendingPercentage": 69,
+      "rank": 3,
+      "categoryScores": {
+        "Kamera": 9.2
+      },
+      "viewCount": 21000,
+      "likeCount": 3000,
+      "detailViewCount": 1000,
+      "releaseDate": "2025-08-10T00:00:00Z",
+      "antutuScore": 2696739,
+      "trendReason": "vivo X200 Pro dengan kamera Zeiss",
+      "reviews": 1300
+    },
+    {
+      "id": "realme-gt-7",
+      "name": "Realme GT 7",
+      "brand": "Realme",
+      "rating": 4.7,
+      "price": 8999000,
+      "imageUrl": "",
+      "features": [
+        "Dimensity 9400e",
+        "12GB RAM",
+        "512GB",
+        "120Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, Realme UI 6.0",
+          "Chipset": "MediaTek Dimensity 9400e",
+          "CPU": "Octa-core",
+          "GPU": "Mali-G720"
+        },
+        "MEMORY": {
+          "Internal": "512GB 12GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.78 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 8 MP (ultrawide), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "120W fast charging"
+        },
+        "antutu": 2440356,
+        "mainCameraMP": 50,
+        "battery": 5000,
+        "displayScore": 0.93,
+        "buildQuality": 0.9,
+        "ram": 12,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.7
+      },
+      "categories": [
+        "Gaming"
+      ],
+      "description": "Realme GT 7 dengan performa gaming",
+      "colors": [
+        "Black",
+        "Yellow",
+        "Blue"
+      ],
+      "advantages": [
+        "Performa gaming bagus",
+        "Charging super cepat 120W",
+        "Display AMOLED 120Hz",
+        "RAM 12GB"
+      ],
+      "disadvantages": [
+        "MediaTek kurang populer",
+        "Tidak ada telephoto"
+      ],
+      "overallScore": 8.7,
+      "trendingScore": 76.0,
+      "trendingPercentage": 63,
+      "rank": 1,
+      "categoryScores": {
+        "Gaming": 8.9
+      },
+      "viewCount": 19000,
+      "likeCount": 2700,
+      "detailViewCount": 950,
+      "releaseDate": "2025-07-10T00:00:00Z",
+      "antutuScore": 2440356,
+      "trendReason": "Realme GT 7 dengan performa gaming",
+      "reviews": 1200
+    },
+    {
+      "id": "realme-12-pro-plus-5g",
+      "name": "Realme 12 Pro+ 5G",
+      "brand": "Realme",
+      "rating": 4.5,
+      "price": 5499000,
+      "imageUrl": "",
+      "features": [
+        "Snapdragon 7s Gen 2",
+        "12GB RAM",
+        "256GB",
+        "50MP",
+        "120Hz"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, Realme UI 6.0",
+          "Chipset": "Qualcomm Snapdragon 7s Gen 2",
+          "CPU": "Octa-core",
+          "GPU": "Adreno GPU"
+        },
+        "MEMORY": {
+          "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.7 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 8 MP (ultrawide), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "67W fast charging"
+        },
+        "antutu": 750000,
+        "mainCameraMP": 50,
+        "battery": 5000,
+        "displayScore": 0.89,
+        "buildQuality": 0.87,
+        "ram": 12,
+        "refreshRate": 120,
+        "hasUltrawide": true,
+        "hasTelephoto": false,
+        "video4K": true,
+        "hasOIS": true,
+        "cooling": 0.55
+      },
+      "categories": [
+        "4 Jutaan"
+      ],
+      "description": "Realme 12 Pro+ dengan performa solid",
+      "colors": [
+        "Black",
+        "Blue",
+        "Orange"
+      ],
+      "advantages": [
+        "RAM 12GB",
+        "Display AMOLED 120Hz",
+        "Charging cepat 67W",
+        "Harga terjangkau"
+      ],
+      "disadvantages": [
+        "Chipset mid-range",
+        "Tidak ada telephoto"
+      ],
+      "overallScore": 8.2,
+      "trendingScore": 66.0,
+      "trendingPercentage": 46,
+      "rank": 5,
+      "categoryScores": {
+        "4 Jutaan": 8.5
+      },
+      "viewCount": 15000,
+      "likeCount": 2200,
+      "detailViewCount": 750,
+      "releaseDate": "2025-03-08T00:00:00Z",
+      "antutuScore": 750000,
+      "trendReason": "Realme 12 Pro+ dengan performa solid",
+      "reviews": 900
+    },
+    {
+      "id": "infinix-note-50",
+      "name": "Infinix Note 50",
+      "brand": "Infinix",
+      "rating": 4.2,
+      "price": 1999000,
+      "imageUrl": "",
+      "features": [
+        "Helio G99 Ultra",
+        "8GB RAM",
+        "256GB",
+        "50MP"
+      ],
+      "specifications": {
+        "PLATFORM": {
+          "OS": "Android 15, XOS",
+          "Chipset": "MediaTek Helio G99 Ultra",
+          "CPU": "Octa-core",
+          "GPU": "Mali-G57 MC2"
+        },
+        "MEMORY": {
+          "Internal": "256GB 8GB RAM"
+        },
+        "DISPLAY": {
+          "Type": "AMOLED, 120Hz",
+          "Size": "6.78 inches"
+        },
+        "MAIN CAMERA": {
+          "Triple": "50 MP (wide), 2 MP (depth), 2 MP (macro)"
+        },
+        "BATTERY": {
+          "Type": "Li-Ion 5000 mAh",
+          "Charging": "45W fast charging"
+        },
+        "antutu": 430000,
+        "mainCameraMP": 50,
+        "battery": 5000,
+        "displayScore": 0.82,
+        "buildQuality": 0.76,
+        "ram": 8,
+        "refreshRate": 120,
+        "hasUltrawide": false,
+        "hasTelephoto": false,
+        "video4K": false,
+        "hasOIS": false,
+        "cooling": 0.4
+      },
+      "categories": [
+        "2 Jutaan"
+      ],
+      "description": "Infinix Note 50 dengan display AMOLED 120Hz",
+      "colors": [
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "advantages": [
+        "Display AMOLED 120Hz",
+        "Harga sangat terjangkau",
+        "Kamera 50MP",
+        "Baterai 5000mAh"
+      ],
+      "disadvantages": [
+        "Chipset entry-level",
+        "Tidak ada OIS",
+        "Brand kurang dikenal"
+      ],
+      "overallScore": 7.3,
+      "trendingScore": 53.0,
+      "trendingPercentage": 33,
+      "rank": 4,
+      "categoryScores": {
+        "2 Jutaan": 7.6
+      },
+      "viewCount": 9800,
+      "likeCount": 1450,
+      "detailViewCount": 480,
+      "releaseDate": "2025-01-10T00:00:00Z",
+      "antutuScore": 430000,
+      "trendReason": "Infinix Note 50 dengan display AMOLED 120Hz",
+      "reviews": 580
+    }
+  ]
+}

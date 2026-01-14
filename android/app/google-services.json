@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781020799222",
+    "project_id": "smartphone-rec",
+    "storage_bucket": "smartphone-rec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781020799222:android:00a91ffae8c304e4a9ccd7",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbY8FzNfHiQprsZZgx9gD1pYM8v3Efvfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

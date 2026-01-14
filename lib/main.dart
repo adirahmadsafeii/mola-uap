@@ -1,12 +1,18 @@
-
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:myapp/app_router.dart';
+import 'package:myapp/config/navigasi.dart';
+import 'package:myapp/firebase_options.dart';
 
-void main() {
+/// Entry point aplikasi
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
   runApp(const MyApp());
 }
 
+/// Widget utama aplikasi
+/// Mengatur tema dan routing aplikasi
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
@@ -14,12 +20,17 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     const Color primarySeedColor = Colors.blue;
 
+    // Konfigurasi text theme dengan Google Fonts
     final TextTheme appTextTheme = TextTheme(
-      displayLarge: GoogleFonts.oswald(fontSize: 57, fontWeight: FontWeight.bold),
+      displayLarge: GoogleFonts.oswald(
+        fontSize: 57,
+        fontWeight: FontWeight.bold,
+      ),
       titleLarge: GoogleFonts.roboto(fontSize: 22, fontWeight: FontWeight.w500),
       bodyMedium: GoogleFonts.openSans(fontSize: 14),
     );
 
+    // Tema light mode
     final ThemeData lightTheme = ThemeData(
       useMaterial3: true,
       colorScheme: ColorScheme.fromSeed(
@@ -30,7 +41,11 @@ class MyApp extends StatelessWidget {
       appBarTheme: AppBarTheme(
         backgroundColor: Colors.white,
         foregroundColor: Colors.black,
-        titleTextStyle: GoogleFonts.oswald(fontSize: 24, fontWeight: FontWeight.bold, color: Colors.black),
+        titleTextStyle: GoogleFonts.oswald(
+          fontSize: 24,
+          fontWeight: FontWeight.bold,
+          color: Colors.black,
+        ),
       ),
       elevatedButtonTheme: ElevatedButtonThemeData(
         style: ElevatedButton.styleFrom(
@@ -38,11 +53,15 @@ class MyApp extends StatelessWidget {
           backgroundColor: primarySeedColor,
           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
           padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
-          textStyle: GoogleFonts.roboto(fontSize: 16, fontWeight: FontWeight.w500),
+          textStyle: GoogleFonts.roboto(
+            fontSize: 16,
+            fontWeight: FontWeight.w500,
+          ),
         ),
       ),
     );
 
+    // Tema dark mode
     final ThemeData darkTheme = ThemeData(
       useMaterial3: true,
       colorScheme: ColorScheme.fromSeed(
@@ -53,25 +72,31 @@ class MyApp extends StatelessWidget {
       appBarTheme: AppBarTheme(
         backgroundColor: Colors.grey[900],
         foregroundColor: Colors.white,
-        titleTextStyle: GoogleFonts.oswald(fontSize: 24, fontWeight: FontWeight.bold),
+        titleTextStyle: GoogleFonts.oswald(
+          fontSize: 24,
+          fontWeight: FontWeight.bold,
+        ),
       ),
       elevatedButtonTheme: ElevatedButtonThemeData(
         style: ElevatedButton.styleFrom(
           foregroundColor: Colors.black,
-          backgroundColor: Colors.blue.shade200, 
+          backgroundColor: Colors.blue.shade200,
           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
           padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
-          textStyle: GoogleFonts.roboto(fontSize: 16, fontWeight: FontWeight.w500),
+          textStyle: GoogleFonts.roboto(
+            fontSize: 16,
+            fontWeight: FontWeight.w500,
+          ),
         ),
       ),
     );
 
     return MaterialApp.router(
-      title: 'Flutter Login UI',
+      title: 'SmartPhone Rec',
       theme: lightTheme,
       darkTheme: darkTheme,
-      themeMode: ThemeMode.light, // Set to light mode to see the changes
-      routerConfig: router,
+      themeMode: ThemeMode.light,
+      routerConfig: navigasi,
     );
   }
 }

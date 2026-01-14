@@ -1,0 +1,357 @@
+[
+  {
+    "id": "iphone-17-pro-max",
+    "name": "iPhone 17 Pro Max",
+    "brand": "Apple",
+    "rating": 4.9,
+    "price": 22999000,
+    "imageUrl": "",
+    "features": ["A19 Pro", "256GB", "48MP Fusion"],
+    "specifications": {
+      "PLATFORM": {
+        "OS": "iOS 19",
+        "Chipset": "Apple A19 Pro (2 nm)",
+        "CPU": "Hexa-core",
+        "GPU": "Apple GPU (7-core graphics)"
+      },
+      "MEMORY": {
+        "Internal": "256GB 8GB RAM, 512GB 12GB RAM, 1TB 12GB RAM"
+      },
+      "DISPLAY": {
+        "Type": "LTPO Super Retina XDR OLED, 120Hz",
+        "Size": "6.8 inches"
+      },
+      "MAIN CAMERA": {
+        "Triple": "48 MP Fusion (wide), 12 MP (ultrawide), 12 MP (telephoto)"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion 5000 mAh",
+        "Charging": "Wired, MagSafe wireless"
+      },
+      "antutu": 2300000,
+      "mainCameraMP": 48,
+      "battery": 5000,
+      "displayScore": 0.98,
+      "buildQuality": 0.99,
+      "ram": 12,
+      "refreshRate": 120,
+      "hasUltrawide": true,
+      "hasTelephoto": true,
+      "video4K": true,
+      "hasOIS": true,
+      "cooling": 0.7
+    },
+    "categories": ["Gaming", "Kamera"],
+    "description": "iPhone terbaru 2025 dengan A19 Pro dan sistem kamera Fusion 48MP",
+    "colors": ["Natural Titanium", "Blue Titanium", "White Titanium", "Black Titanium"],
+    "advantages": [
+      "Chip A19 Pro terbaru",
+      "Sistem kamera Fusion 48MP",
+      "Layar ProMotion terbaik",
+      "Build quality premium titanium"
+    ],
+    "disadvantages": [
+      "Harga sangat mahal",
+      "Charging tidak secepat Android"
+    ],
+    "overallScore": 9.9,
+    "trendingScore": 96.0,
+    "trendingPercentage": 98,
+    "rank": 1,
+    "categoryScores": {
+      "Gaming": 9.5,
+      "Kamera": 9.9
+    },
+    "viewCount": 35000,
+    "likeCount": 5000,
+    "detailViewCount": 2000,
+    "releaseDate": "2025-09-15T00:00:00Z",
+    "antutuScore": 2300000,
+    "trendReason": "iPhone terbaru 2025 dengan A19 Pro dan kamera Fusion",
+    "reviews": 2000
+  },
+  {
+    "id": "iphone-17-pro",
+    "name": "iPhone 17 Pro",
+    "brand": "Apple",
+    "rating": 4.8,
+    "price": 19999000,
+    "imageUrl": "",
+    "features": ["A19 Pro", "256GB", "48MP Fusion"],
+    "specifications": {
+      "PLATFORM": {
+        "OS": "iOS 19",
+        "Chipset": "Apple A19 Pro (2 nm)",
+        "CPU": "Hexa-core",
+        "GPU": "Apple GPU (7-core graphics)"
+      },
+      "MEMORY": {
+        "Internal": "256GB 8GB RAM, 512GB 12GB RAM, 1TB 12GB RAM"
+      },
+      "DISPLAY": {
+        "Type": "LTPO Super Retina XDR OLED, 120Hz",
+        "Size": "6.1 inches"
+      },
+      "MAIN CAMERA": {
+        "Triple": "48 MP Fusion (wide), 12 MP (ultrawide), 12 MP (telephoto)"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion 4500 mAh",
+        "Charging": "Wired, MagSafe wireless"
+      },
+      "antutu": 2250000,
+      "mainCameraMP": 48,
+      "battery": 4500,
+      "displayScore": 0.98,
+      "buildQuality": 0.99,
+      "ram": 12,
+      "refreshRate": 120,
+      "hasUltrawide": true,
+      "hasTelephoto": true,
+      "video4K": true,
+      "hasOIS": true,
+      "cooling": 0.7
+    },
+    "categories": ["Gaming", "Kamera"],
+    "description": "iPhone 17 Pro dengan A19 Pro dalam ukuran compact",
+    "colors": ["Natural Titanium", "Blue Titanium", "White Titanium", "Black Titanium"],
+    "advantages": [
+      "Chip A19 Pro terbaru",
+      "Ukuran lebih compact",
+      "Sistem kamera Fusion 48MP",
+      "Build quality premium"
+    ],
+    "disadvantages": [
+      "Harga mahal",
+      "Baterai lebih kecil dari Pro Max"
+    ],
+    "overallScore": 9.7,
+    "trendingScore": 94.0,
+    "trendingPercentage": 95,
+    "rank": 2,
+    "categoryScores": {
+      "Gaming": 9.4,
+      "Kamera": 9.8
+    },
+    "viewCount": 32000,
+    "likeCount": 4500,
+    "detailViewCount": 1800,
+    "releaseDate": "2025-09-15T00:00:00Z",
+    "antutuScore": 2250000,
+    "trendReason": "iPhone 17 Pro dengan A19 Pro terbaru",
+    "reviews": 1800
+  },
+  {
+    "id": "iphone-17",
+    "name": "iPhone 17",
+    "brand": "Apple",
+    "rating": 4.7,
+    "price": 16999000,
+    "imageUrl": "",
+    "features": ["A19", "256GB", "48MP Dual"],
+    "specifications": {
+      "PLATFORM": {
+        "OS": "iOS 19",
+        "Chipset": "Apple A19 (2 nm)",
+        "CPU": "Hexa-core",
+        "GPU": "Apple GPU (6-core graphics)"
+      },
+      "MEMORY": {
+        "Internal": "256GB 8GB RAM, 512GB 8GB RAM"
+      },
+      "DISPLAY": {
+        "Type": "Super Retina XDR OLED, 120Hz",
+        "Size": "6.1 inches"
+      },
+      "MAIN CAMERA": {
+        "Dual": "48 MP (wide), 12 MP (ultrawide)"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion 4000 mAh",
+        "Charging": "Wired, MagSafe wireless"
+      },
+      "antutu": 2100000,
+      "mainCameraMP": 48,
+      "battery": 4000,
+      "displayScore": 0.96,
+      "buildQuality": 0.97,
+      "ram": 8,
+      "refreshRate": 120,
+      "hasUltrawide": true,
+      "hasTelephoto": false,
+      "video4K": true,
+      "hasOIS": true,
+      "cooling": 0.6
+    },
+    "categories": ["Kamera"],
+    "description": "iPhone 17 dengan A19 dan kamera Dual 48MP",
+    "colors": ["Black", "Blue", "Pink", "Yellow", "Green"],
+    "advantages": [
+      "Chip A19 terbaru",
+      "Harga lebih terjangkau",
+      "Kamera 48MP",
+      "Layar 120Hz"
+    ],
+    "disadvantages": [
+      "Tidak ada telephoto",
+      "Baterai lebih kecil"
+    ],
+    "overallScore": 9.4,
+    "trendingScore": 90.0,
+    "trendingPercentage": 92,
+    "rank": 3,
+    "categoryScores": {
+      "Kamera": 9.5
+    },
+    "viewCount": 28000,
+    "likeCount": 4000,
+    "detailViewCount": 1500,
+    "releaseDate": "2025-09-15T00:00:00Z",
+    "antutuScore": 2100000,
+    "trendReason": "iPhone 17 dengan A19 dan harga lebih terjangkau",
+    "reviews": 1600
+  },
+  {
+    "id": "iphone-16-pro-max",
+    "name": "iPhone 16 Pro Max",
+    "brand": "Apple",
+    "rating": 4.8,
+    "price": 21999000,
+    "imageUrl": "",
+    "features": ["A18 Pro", "256GB", "48MP"],
+    "specifications": {
+      "PLATFORM": {
+        "OS": "iOS 18",
+        "Chipset": "Apple A18 Pro (3 nm)",
+        "CPU": "Hexa-core",
+        "GPU": "Apple GPU (6-core graphics)"
+      },
+      "MEMORY": {
+        "Internal": "256GB 8GB RAM, 512GB 8GB RAM, 1TB 8GB RAM"
+      },
+      "DISPLAY": {
+        "Type": "LTPO Super Retina XDR OLED, 120Hz",
+        "Size": "6.8 inches"
+      },
+      "MAIN CAMERA": {
+        "Triple": "48 MP (wide), 12 MP (ultrawide), 12 MP (telephoto)"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion 5000 mAh",
+        "Charging": "Wired, MagSafe wireless"
+      },
+      "antutu": 2200000,
+      "mainCameraMP": 48,
+      "battery": 5000,
+      "displayScore": 0.97,
+      "buildQuality": 0.98,
+      "ram": 8,
+      "refreshRate": 120,
+      "hasUltrawide": true,
+      "hasTelephoto": true,
+      "video4K": true,
+      "hasOIS": true,
+      "cooling": 0.7
+    },
+    "categories": ["Gaming", "Kamera"],
+    "description": "iPhone 16 Pro Max dengan A18 Pro",
+    "colors": ["Natural Titanium", "Blue Titanium", "White Titanium", "Black Titanium"],
+    "advantages": [
+      "Chip A18 Pro powerful",
+      "Kamera 48MP",
+      "Layar ProMotion",
+      "Build quality premium"
+    ],
+    "disadvantages": [
+      "Harga mahal",
+      "Charging lambat"
+    ],
+    "overallScore": 9.6,
+    "trendingScore": 88.0,
+    "trendingPercentage": 90,
+    "rank": 4,
+    "categoryScores": {
+      "Gaming": 9.3,
+      "Kamera": 9.7
+    },
+    "viewCount": 30000,
+    "likeCount": 4200,
+    "detailViewCount": 1700,
+    "releaseDate": "2024-09-20T00:00:00Z",
+    "antutuScore": 2200000,
+    "trendReason": "iPhone 16 Pro Max dengan A18 Pro",
+    "reviews": 1900
+  },
+  {
+    "id": "iphone-16-pro",
+    "name": "iPhone 16 Pro",
+    "brand": "Apple",
+    "rating": 4.7,
+    "price": 18999000,
+    "imageUrl": "",
+    "features": ["A18 Pro", "256GB", "48MP"],
+    "specifications": {
+      "PLATFORM": {
+        "OS": "iOS 18",
+        "Chipset": "Apple A18 Pro (3 nm)",
+        "CPU": "Hexa-core",
+        "GPU": "Apple GPU (6-core graphics)"
+      },
+      "MEMORY": {
+        "Internal": "256GB 8GB RAM, 512GB 8GB RAM, 1TB 8GB RAM"
+      },
+      "DISPLAY": {
+        "Type": "LTPO Super Retina XDR OLED, 120Hz",
+        "Size": "6.1 inches"
+      },
+      "MAIN CAMERA": {
+        "Triple": "48 MP (wide), 12 MP (ultrawide), 12 MP (telephoto)"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion 4500 mAh",
+        "Charging": "Wired, MagSafe wireless"
+      },
+      "antutu": 2150000,
+      "mainCameraMP": 48,
+      "battery": 4500,
+      "displayScore": 0.97,
+      "buildQuality": 0.98,
+      "ram": 8,
+      "refreshRate": 120,
+      "hasUltrawide": true,
+      "hasTelephoto": true,
+      "video4K": true,
+      "hasOIS": true,
+      "cooling": 0.6
+    },
+    "categories": ["Gaming", "Kamera"],
+    "description": "iPhone 16 Pro dengan A18 Pro dalam ukuran compact",
+    "colors": ["Natural Titanium", "Blue Titanium", "White Titanium", "Black Titanium"],
+    "advantages": [
+      "Chip A18 Pro",
+      "Ukuran compact",
+      "Kamera 48MP",
+      "Build quality premium"
+    ],
+    "disadvantages": [
+      "Harga mahal",
+      "Baterai lebih kecil"
+    ],
+    "overallScore": 9.5,
+    "trendingScore": 86.0,
+    "trendingPercentage": 88,
+    "rank": 5,
+    "categoryScores": {
+      "Gaming": 9.2,
+      "Kamera": 9.6
+    },
+    "viewCount": 27000,
+    "likeCount": 3800,
+    "detailViewCount": 1400,
+    "releaseDate": "2024-09-20T00:00:00Z",
+    "antutuScore": 2150000,
+    "trendReason": "iPhone 16 Pro dengan A18 Pro",
+    "reviews": 1700
+  }
+]
+

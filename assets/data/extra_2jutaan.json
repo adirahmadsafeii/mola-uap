@@ -1,0 +1,74 @@
+[
+  {
+    "id": "infinix-note-50",
+    "name": "Infinix Note 50",
+    "brand": "Infinix",
+    "rating": 4.2,
+    "price": 1999000,
+    "imageUrl": "",
+    "features": ["Helio G99 Ultra", "8GB RAM", "256GB", "50MP"],
+    "specifications": {
+      "PLATFORM": {
+        "OS": "Android 15, XOS",
+        "Chipset": "MediaTek Helio G99 Ultra",
+        "CPU": "Octa-core",
+        "GPU": "Mali-G57 MC2"
+      },
+      "MEMORY": {
+        "Internal": "256GB 8GB RAM"
+      },
+      "DISPLAY": {
+        "Type": "AMOLED, 120Hz",
+        "Size": "6.78 inches"
+      },
+      "MAIN CAMERA": {
+        "Triple": "50 MP (wide), 2 MP (depth), 2 MP (macro)"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion 5000 mAh",
+        "Charging": "45W fast charging"
+      },
+      "antutu": 430000,
+      "mainCameraMP": 50,
+      "battery": 5000,
+      "displayScore": 0.82,
+      "buildQuality": 0.76,
+      "ram": 8,
+      "refreshRate": 120,
+      "hasUltrawide": false,
+      "hasTelephoto": false,
+      "video4K": false,
+      "hasOIS": false,
+      "cooling": 0.4
+    },
+    "categories": ["2 Jutaan"],
+    "description": "Infinix Note 50 dengan display AMOLED 120Hz",
+    "colors": ["Black", "Blue", "Green"],
+    "advantages": [
+      "Display AMOLED 120Hz",
+      "Harga sangat terjangkau",
+      "Kamera 50MP",
+      "Baterai 5000mAh"
+    ],
+    "disadvantages": [
+      "Chipset entry-level",
+      "Tidak ada OIS",
+      "Brand kurang dikenal"
+    ],
+    "overallScore": 7.3,
+    "trendingScore": 53.0,
+    "trendingPercentage": 33,
+    "rank": 4,
+    "categoryScores": {
+      "2 Jutaan": 7.6
+    },
+    "viewCount": 9800,
+    "likeCount": 1450,
+    "detailViewCount": 480,
+    "releaseDate": "2025-01-10T00:00:00Z",
+    "antutuScore": 430000,
+    "trendReason": "Infinix Note 50 dengan display AMOLED 120Hz",
+    "reviews": 580
+  }
+]
+

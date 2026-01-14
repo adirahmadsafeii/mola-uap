@@ -1,0 +1,283 @@
+[
+  {
+    "id": "oppo-reno-12-pro",
+    "name": "OPPO Reno 12 Pro",
+    "brand": "OPPO",
+    "rating": 4.6,
+    "price": 6999000,
+    "imageUrl": "",
+    "features": ["Snapdragon 7 Gen 3", "12GB RAM", "256GB", "50MP", "80W"],
+    "specifications": {
+      "PLATFORM": {
+        "OS": "Android 15, ColorOS 15",
+        "Chipset": "Qualcomm Snapdragon 7 Gen 3",
+        "CPU": "Octa-core",
+        "GPU": "Adreno GPU"
+      },
+      "MEMORY": {
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+      },
+      "DISPLAY": {
+        "Type": "AMOLED, 120Hz",
+        "Size": "6.7 inches"
+      },
+      "MAIN CAMERA": {
+        "Triple": "50 MP (wide), 32 MP (telephoto 2x), 8 MP (ultrawide)"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion 5000 mAh",
+        "Charging": "80W fast charging"
+      },
+      "antutu": 840000,
+      "mainCameraMP": 50,
+      "battery": 5000,
+      "displayScore": 0.91,
+      "buildQuality": 0.89,
+      "ram": 12,
+      "refreshRate": 120,
+      "hasUltrawide": true,
+      "hasTelephoto": true,
+      "video4K": true,
+      "hasOIS": true,
+      "cooling": 0.6
+    },
+    "categories": ["Kamera"],
+    "description": "OPPO Reno 12 Pro dengan kamera telephoto 2x",
+    "colors": ["Black", "Blue", "Orange"],
+    "advantages": [
+      "Kamera telephoto 2x",
+      "Charging cepat 80W",
+      "Display AMOLED 120Hz",
+      "RAM 12GB"
+    ],
+    "disadvantages": [
+      "Harga cukup mahal",
+      "Chipset mid-range"
+    ],
+    "overallScore": 8.3,
+    "trendingScore": 70.0,
+    "trendingPercentage": 50,
+    "rank": 2,
+    "categoryScores": {
+      "Kamera": 8.7
+    },
+    "viewCount": 16000,
+    "likeCount": 2400,
+    "detailViewCount": 800,
+    "releaseDate": "2025-02-28T00:00:00Z",
+    "antutuScore": 840000,
+    "trendReason": "OPPO Reno 12 Pro dengan kamera telephoto 2x",
+    "reviews": 980
+  },
+  {
+    "id": "vivo-x200-pro",
+    "name": "vivo X200 Pro",
+    "brand": "vivo",
+    "rating": 4.7,
+    "price": 15999000,
+    "imageUrl": "",
+    "features": ["Dimensity 9400", "12GB RAM", "512GB", "50MP Zeiss"],
+    "specifications": {
+      "PLATFORM": {
+        "OS": "Android 15, OriginOS 5",
+        "Chipset": "MediaTek Dimensity 9400",
+        "CPU": "Octa-core",
+        "GPU": "Mali-G720"
+      },
+      "MEMORY": {
+        "Internal": "512GB 12GB RAM"
+      },
+      "DISPLAY": {
+        "Type": "AMOLED, 120Hz",
+        "Size": "6.7 inches"
+      },
+      "MAIN CAMERA": {
+        "Triple": "50 MP Zeiss (wide), 50 MP (ultrawide), 12 MP (telephoto)"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion 5000 mAh",
+        "Charging": "120W fast charging"
+      },
+      "antutu": 2696739,
+      "mainCameraMP": 50,
+      "battery": 5000,
+      "displayScore": 0.95,
+      "buildQuality": 0.92,
+      "ram": 12,
+      "refreshRate": 120,
+      "hasUltrawide": true,
+      "hasTelephoto": true,
+      "video4K": true,
+      "hasOIS": true,
+      "cooling": 0.75
+    },
+    "categories": ["Kamera"],
+    "description": "vivo X200 Pro dengan kamera Zeiss",
+    "colors": ["Black", "Blue", "Purple"],
+    "advantages": [
+      "Kamera Zeiss",
+      "Charging super cepat 120W",
+      "Display AMOLED 120Hz",
+      "Dimensity 9400"
+    ],
+    "disadvantages": [
+      "Harga mahal",
+      "MediaTek kurang populer"
+    ],
+    "overallScore": 9.1,
+    "trendingScore": 84.0,
+    "trendingPercentage": 69,
+    "rank": 3,
+    "categoryScores": {
+      "Kamera": 9.2
+    },
+    "viewCount": 21000,
+    "likeCount": 3000,
+    "detailViewCount": 1000,
+    "releaseDate": "2025-08-10T00:00:00Z",
+    "antutuScore": 2696739,
+    "trendReason": "vivo X200 Pro dengan kamera Zeiss",
+    "reviews": 1300
+  },
+  {
+    "id": "realme-gt-7",
+    "name": "Realme GT 7",
+    "brand": "Realme",
+    "rating": 4.7,
+    "price": 8999000,
+    "imageUrl": "",
+    "features": ["Dimensity 9400e", "12GB RAM", "512GB", "120Hz"],
+    "specifications": {
+      "PLATFORM": {
+        "OS": "Android 15, Realme UI 6.0",
+        "Chipset": "MediaTek Dimensity 9400e",
+        "CPU": "Octa-core",
+        "GPU": "Mali-G720"
+      },
+      "MEMORY": {
+        "Internal": "512GB 12GB RAM"
+      },
+      "DISPLAY": {
+        "Type": "AMOLED, 120Hz",
+        "Size": "6.78 inches"
+      },
+      "MAIN CAMERA": {
+        "Triple": "50 MP (wide), 8 MP (ultrawide), 2 MP (macro)"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion 5000 mAh",
+        "Charging": "120W fast charging"
+      },
+      "antutu": 2440356,
+      "mainCameraMP": 50,
+      "battery": 5000,
+      "displayScore": 0.93,
+      "buildQuality": 0.90,
+      "ram": 12,
+      "refreshRate": 120,
+      "hasUltrawide": true,
+      "hasTelephoto": false,
+      "video4K": true,
+      "hasOIS": true,
+      "cooling": 0.7
+    },
+    "categories": ["Gaming"],
+    "description": "Realme GT 7 dengan performa gaming",
+    "colors": ["Black", "Yellow", "Blue"],
+    "advantages": [
+      "Performa gaming bagus",
+      "Charging super cepat 120W",
+      "Display AMOLED 120Hz",
+      "RAM 12GB"
+    ],
+    "disadvantages": [
+      "MediaTek kurang populer",
+      "Tidak ada telephoto"
+    ],
+    "overallScore": 8.7,
+    "trendingScore": 76.0,
+    "trendingPercentage": 63,
+    "rank": 1,
+    "categoryScores": {
+      "Gaming": 8.9
+    },
+    "viewCount": 19000,
+    "likeCount": 2700,
+    "detailViewCount": 950,
+    "releaseDate": "2025-07-10T00:00:00Z",
+    "antutuScore": 2440356,
+    "trendReason": "Realme GT 7 dengan performa gaming",
+    "reviews": 1200
+  },
+  {
+    "id": "realme-12-pro-plus-5g",
+    "name": "Realme 12 Pro+ 5G",
+    "brand": "Realme",
+    "rating": 4.5,
+    "price": 5499000,
+    "imageUrl": "",
+    "features": ["Snapdragon 7s Gen 2", "12GB RAM", "256GB", "50MP", "120Hz"],
+    "specifications": {
+      "PLATFORM": {
+        "OS": "Android 15, Realme UI 6.0",
+        "Chipset": "Qualcomm Snapdragon 7s Gen 2",
+        "CPU": "Octa-core",
+        "GPU": "Adreno GPU"
+      },
+      "MEMORY": {
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+      },
+      "DISPLAY": {
+        "Type": "AMOLED, 120Hz",
+        "Size": "6.7 inches"
+      },
+      "MAIN CAMERA": {
+        "Triple": "50 MP (wide), 8 MP (ultrawide), 2 MP (macro)"
+      },
+      "BATTERY": {
+        "Type": "Li-Ion 5000 mAh",
+        "Charging": "67W fast charging"
+      },
+      "antutu": 750000,
+      "mainCameraMP": 50,
+      "battery": 5000,
+      "displayScore": 0.89,
+      "buildQuality": 0.87,
+      "ram": 12,
+      "refreshRate": 120,
+      "hasUltrawide": true,
+      "hasTelephoto": false,
+      "video4K": true,
+      "hasOIS": true,
+      "cooling": 0.55
+    },
+    "categories": ["4 Jutaan"],
+    "description": "Realme 12 Pro+ dengan performa solid",
+    "colors": ["Black", "Blue", "Orange"],
+    "advantages": [
+      "RAM 12GB",
+      "Display AMOLED 120Hz",
+      "Charging cepat 67W",
+      "Harga terjangkau"
+    ],
+    "disadvantages": [
+      "Chipset mid-range",
+      "Tidak ada telephoto"
+    ],
+    "overallScore": 8.2,
+    "trendingScore": 66.0,
+    "trendingPercentage": 46,
+    "rank": 5,
+    "categoryScores": {
+      "4 Jutaan": 8.5
+    },
+    "viewCount": 15000,
+    "likeCount": 2200,
+    "detailViewCount": 750,
+    "releaseDate": "2025-03-08T00:00:00Z",
+    "antutuScore": 750000,
+    "trendReason": "Realme 12 Pro+ dengan performa solid",
+    "reviews": 900
+  }
+]
+
